@@ -57,4 +57,7 @@
 		- Waiting on Support for contact the Customer to revert the device
 	- Update: [[Jul 23rd, 2024]]
 		- Revert the scripts
-- GPS Issues - XT6384<!-- notionvc: 5c6ceb87-ddb5-464e-93ed-7da8c607aa08 -->
+- GPS Issues - XT6384 #sensata #CTS
+	- Added: [[Aug 6, 2024]]
+	- Status: [[status: Platform's Court]]
+		- Last Change:
