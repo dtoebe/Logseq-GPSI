@@ -1,4 +1,4 @@
-- TEMPLATE
+- TEMPLATE <Title> <tag: vendor> <tag: platform> <status:
 	- Added: [[Aug 6, 2024]]
 	- Status: [[status: Platform's Court]]
 		- Last Change: [[Aug 27th, 2024]]
