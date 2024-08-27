@@ -103,6 +103,7 @@
 		- Update [[Aug 26th, 2024]]
 			- {{embed ((66ccdd32-108c-4f7b-920b-3a1dab34909f))}}
 	- Signed / Unsigned accumulators  #calamp #GPSI [[status: Done]]
+	  collapsed:: true
 		- Added: [[Aug 26th, 2024]]
 		- Status Last Change: [[Aug 26th, 2024]]
 		- HE Ticket(s):
@@ -110,7 +111,7 @@
 		- Updated [[Aug 26th, 2024]]
 			- {{embed ((66ccdd32-3618-4095-8a0b-1c75631776fb))}}
 		- Update: [[Aug 27th, 2024]
-			- #gpsi-jason-h will be checking if there is an order to the update. Eitheer the Android or CM
+			- #gpsi-jason-h will be checking if there is an order to the update. Either the Android or CMF update first
 -
 -
 -
