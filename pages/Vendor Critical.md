@@ -1,4 +1,5 @@
 - POD FW #calamp #GPSI
+  collapsed:: true
 	- Status: [[status: Done]]
 		- Last Change: [[Aug 26th, 2024]]
 	- HE Ticket(s):
@@ -47,7 +48,6 @@
 	- Update: [[Jul 23rd, 2024]]
 		- Only seeing this on Cat-1 devices
 - Ignition Events Being Missed Until Device Is Reset #sensata #CTS
-  collapsed:: true
 	- Added: [[Jan 11, 2024]]
 	- Status: [[status: Platform's Court]]
 		- Last Change: [[Aug 27th, 2024]]
@@ -63,4 +63,5 @@
 	- Added: [[Aug 6, 2024]]
 	- Status: [[status: Platform's Court]]
 		- Last Change: [[Aug 27th, 2024]]
-	-
+	- HE Ticket(s): HE-
+	- Vendor Ticket(s): XSS-5117
