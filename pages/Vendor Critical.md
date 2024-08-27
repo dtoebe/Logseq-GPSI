@@ -51,4 +51,7 @@
 		- Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-360
 	- Vendor Ticket(s): XSS-5117
-	-
+	- Update: [[Aug 20, 2024]]
+		- We are waiting on the customer to reply
+	- Update: [[Aug 6, 2024]]
+		-
