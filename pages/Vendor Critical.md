@@ -23,6 +23,7 @@
 	- Update: [[Jul 23rd, 2024]]
 		- Blocked on the 1133 Patch
 - INCIDENT - XT6379A, XT6360 - Cell Issue (77H) #sensata #CTS [[status: Platform's Court]]
+  collapsed:: true
 	- Added: [[Jul 23rd, 2024]]
 	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-1375
@@ -31,9 +32,6 @@
 		- Anthony is monitoring devices regularly and seeing if we have the reset issue
 	- Update: [[Jul 23rd, 2024]]
 		- Only seeing this on Cat-1 devices
-	- Update: [[Aug 27th, 2024]]
-		- We are updating the J script now
-		- We have tested the reset modem and #cts-ross says we should move forward
 - Ignition Events Being Missed Until Device Is Reset #sensata #CTS
   collapsed:: true
 	- Added: [[Jan 11, 2024]]
