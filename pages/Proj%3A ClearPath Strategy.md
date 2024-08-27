@@ -9,4 +9,6 @@
 - ## Problems to solve
 	- What is #ClearPath direction?
 		- Channel? To what extent?
-	- What about
+	- What about #ClearPath resources
+		- Where is #cp-soheil going to land?
+	-
