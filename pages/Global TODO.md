@@ -50,6 +50,7 @@
 	- [[2024-08-07]] : Yesterday I got synced up with Dmitry and Aptum for a 9a meeting on Friday
 	- [[2024-08-13]] : Sent attachments to Aptum today
 	- [[2024-08-26]]: Got info back from Aptum. A little Cryptic, so I req a meeting w/ Rodgers to sort out
+	- [[Proj: CTS Rodgers Network]]
 - TODO Identify two people that I'd value feedback from and request for it. Thinking Jake or Kim, Chris after I meet with him around the strategy idea. #WORK #management #coaching
 - TODO Think about how I can use the aid mnemonic in chapter 5 of the Tao of Coaching. #PERSONAL #management #coaching
 - DOING Using #gpsi-ray bullet points on priorities, find out exactly where #cts-mike is with each priority and how we can balance getting those things done. #WORK #CTS
