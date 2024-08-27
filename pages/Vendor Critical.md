@@ -1,4 +1,5 @@
 - Diag Vals High (Accel/Decel) #calamp #GPSI [[status: Vendor's Court]]
+  collapsed:: true
 	- Added: [[Aug 26th, 2024]]
 	- Status Last Change: [[Aug 26th, 2024]]
 	- HE Ticket(s):
@@ -26,6 +27,8 @@
 	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-1375
 	- Vendor Ticket(s): XSS-5766
+	- Update: [[Aug 27th, 2024]]
+		- {{embed ((66ce315d-da17-4b22-a8de-3ad0feee85b9))}}
 	- Update: [[Aug 20, 2024]]
 		- Anthony is monitoring devices regularly and seeing if we have the reset issue
 	- Update: [[Jul 23rd, 2024]]
