@@ -15,10 +15,5 @@
 	- #calamp
 	- CTC-8690
 	- Updated [[Aug 26th, 2024]]
-	- LMU FW resolved in the FW itself and a fix from Assured
-	- New CMF version 3.0g
-	- Per #gpsi-ray, we are good w/ this now and it lays w/ #assured
-	- {{embed ((66ccdd32-3618-4095-8a0b-1c75631776fb))}}
-	- {{embed ((66ccdd32-6176-4b36-9f48-1d9be7b69c0e))}}
-	- {{embed ((66ccdd32-6ed8-4de0-9c8e-ac6e3d526756))}}
-	- {{embed ((66ccdd32-d7f5-4e8c-bb10-d58ac7a908da))}}
+		- {{embed ((66ccdd32-3618-4095-8a0b-1c75631776fb))}}
+	-
