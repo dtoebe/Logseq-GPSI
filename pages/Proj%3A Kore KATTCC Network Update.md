@@ -8,5 +8,5 @@
 	  :LOGBOOK:
 	  CLOCK: [2024-08-26 Mon 11:50:29]--[2024-08-26 Mon 11:50:30] =>  00:00:01
 	  :END:
-	- TODO
+	- TODO Announce start end and update in Slack:#in
 	-
