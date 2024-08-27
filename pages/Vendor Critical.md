@@ -1,11 +1,12 @@
 - Diag Vals High (Accel/Decel) #calamp #GPSI [[status: Vendor's Court]]
-  collapsed:: true
 	- Added: [[Aug 26th, 2024]]
 	- Status Last Change: [[Aug 26th, 2024]]
 	- HE Ticket(s):
 	- Vendor Ticket(s): CTCS-71277
 	- Update [[Aug 26th, 2024]]
 		- {{embed ((66ccdd32-bb38-43d8-8b92-22abb7ae6ba6))}}
+	- Update: [[Aug 27th, 2024]]
+		- Not in 8.6
 - Ghost Bluetooth #sensata #CTS [[status: Vendor's Court]]
   collapsed:: true
 	- Added: [[May 23, 2024]]
