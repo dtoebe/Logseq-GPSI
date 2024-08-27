@@ -1,11 +1,3 @@
-- TEMPLATE <Title> <tag: vendor> <tag: platform> <status: of issue>
-  collapsed:: true
-	- Added: Date Added Example: [[Jan, 01, 2024]]
-	- Status Last Change: Example: [[Jan, 01, 2024]]
-	- HE Ticket(s): HE Project Tickets
-	- Vendor Ticket(s): Vendor Ticket numbers
-	- Update: <Array> Latest on top: Example: [[Jan, 01, 2024]]
-		- Update summary
 - Diag Vals High (Accel/Decel) #calamp #GPSI [[status: Vendor's Court]]
   collapsed:: true
 	- Added: [[Aug 26th, 2024]]
@@ -14,15 +6,6 @@
 	- Vendor Ticket(s): CTCS-71277
 	- Update [[Aug 26th, 2024]]
 		- {{embed ((66ccdd32-bb38-43d8-8b92-22abb7ae6ba6))}}
-- Signed / Unsigned accumulators  #calamp #GPSI [[status: Done]]
-  collapsed:: true
-	- Added: [[Aug 26th, 2024]]
-	- Status Last Change: [[Aug 26th, 2024]]
-	- HE Ticket(s):
-	- Vendor Ticket(s): CTC-8690
-	- Updated [[Aug 26th, 2024]]
-		- {{embed ((66ccdd32-3618-4095-8a0b-1c75631776fb))}}
-	-
 - Ghost Bluetooth #sensata #CTS [[status: Vendor's Court]]
   collapsed:: true
 	- Added: [[May 23, 2024]]
@@ -116,3 +99,23 @@
 		- Vendor Ticket(s): CTCS-71659
 		- Update [[Aug 26th, 2024]]
 			- {{embed ((66ccdd32-108c-4f7b-920b-3a1dab34909f))}}
+	- Signed / Unsigned accumulators  #calamp #GPSI [[status: Done]]
+	  collapsed:: true
+		- Added: [[Aug 26th, 2024]]
+		- Status Last Change: [[Aug 26th, 2024]]
+		- HE Ticket(s):
+		- Vendor Ticket(s): CTC-8690
+		- Updated [[Aug 26th, 2024]]
+			- {{embed ((66ccdd32-3618-4095-8a0b-1c75631776fb))}}
+		-
+-
+-
+-
+- TEMPLATE <Title> <tag: vendor> <tag: platform> <status: of issue>
+  collapsed:: true
+	- Added: Date Added Example: [[Jan, 01, 2024]]
+	- Status Last Change: Example: [[Jan, 01, 2024]]
+	- HE Ticket(s): HE Project Tickets
+	- Vendor Ticket(s): Vendor Ticket numbers
+	- Update: <Array> Latest on top: Example: [[Jan, 01, 2024]]
+		- Update summary
