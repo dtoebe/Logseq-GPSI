@@ -109,7 +109,8 @@
 		- Vendor Ticket(s): CTC-8690
 		- Updated [[Aug 26th, 2024]]
 			- {{embed ((66ccdd32-3618-4095-8a0b-1c75631776fb))}}
-		-
+		- Update: [[Aug 27th, 2024]]
+			- If we push out the update on the CMF
 -
 -
 -
