@@ -45,4 +45,8 @@
 		- Anthony is monitoring devices regularly and seeing if we have the reset issue
 	- Update: [[Jul 23rd, 2024]]
 		- Only seeing this on Cat-1 devices
--
+- Ignition Events Being Missed Until Device Is Reset #sensata #CTS
+	- Added: [[Jan 11, 2024]]
+	- Status: [[status: Platform's Court]]
+		- Last Change: [[Aug 27th, 2024]]
+	-
