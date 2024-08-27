@@ -7,6 +7,7 @@
 		- Update summary
 - POD FW #calamp #GPSI [[status: Done]]
   collapsed:: true
+	- Added: [[Aug 26th, 2024]]
 	- Status Last Change: [[Aug 26th, 2024]]
 	- HE Ticket(s):
 	- Vendor Ticket(s): CTCS-71659
@@ -14,12 +15,15 @@
 		- {{embed ((66ccdd32-108c-4f7b-920b-3a1dab34909f))}}
 - Diag Vals High (Accel/Decel) #calamp #GPSI [[status: Vendor's Court]]
   collapsed:: true
+	- Added: [[Aug 26th, 2024]]
 	- Status Last Change: [[Aug 26th, 2024]]
 	- HE Ticket(s):
 	- Vendor Ticket(s): CTCS-71277
 	- Update [[Aug 26th, 2024]]
 		- {{embed ((66ccdd32-bb38-43d8-8b92-22abb7ae6ba6))}}
 - Signed / Unsigned accumulators  #calamp #GPSI [[status: Done]]
+  collapsed:: true
+	- Added: [[Aug 26th, 2024]]
 	- Status Last Change: [[Aug 26th, 2024]]
 	- HE Ticket(s):
 	- Vendor Ticket(s): CTC-8690
@@ -27,7 +31,6 @@
 		- {{embed ((66ccdd32-3618-4095-8a0b-1c75631776fb))}}
 	-
 - Ghost Bluetooth #sensata #CTS
-  collapsed:: true
 	- Added: [[May 23, 2024]]
 	- Status: [[status: Vendor's Court]]
 		- Last Change: [[Aug 27th, 2024]]
