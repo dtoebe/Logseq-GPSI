@@ -1,5 +1,4 @@
 - TEMPLATE <Title> <tag: vendor> <tag: platform> <status: of issue>
-  collapsed:: true
 	- Added: Date Added Example: [[Jan, 01, 2024]]
 	- Status Last Change: Example: [[Jan, 01, 2024]]
 	- HE Ticket(s): HE Project Tickets
@@ -87,4 +86,10 @@
 		- Ray wants to bring this up since it seems to be happening on a regular basis. Push back on Ray for HE and XSS tickets
 			- Get info on XSS tickets
 			  SCHEDULED: <2024-08-30 Fri 09:00>
-- Troubleshoot Airmar Data - T316
+- Troubleshoot Airmar Data - T316 #WBD-V2 #CTS [[status: Platform's Court]]
+	- Added:
+	- Status Last Change: Example: [[Jan, 01, 2024]]
+	- HE Ticket(s): HE Project Tickets
+	- Vendor Ticket(s): Vendor Ticket numbers
+	- Update: <Array> Latest on top: Example: [[Jan, 01, 2024]]
+		- Update summary
