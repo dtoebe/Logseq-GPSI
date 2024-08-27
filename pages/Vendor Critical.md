@@ -30,10 +30,10 @@
 	- Updated [[Aug 26th, 2024]]
 		- {{embed ((66ccdd32-3618-4095-8a0b-1c75631776fb))}}
 	-
-- Ghost Bluetooth #sensata #CTS
+- Ghost Bluetooth #sensata #CTS [[status: Vendor's Court]]
+  collapsed:: true
 	- Added: [[May 23, 2024]]
-	- Status: [[status: Vendor's Court]]
-		- Last Change: [[Aug 27th, 2024]]
+	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-900
 	- Vendor Ticket(s): XSS-5619, XSS-5573, XSS-5664
 	- Update: [[Aug 6, 2024]]
@@ -66,10 +66,10 @@
 		- Waiting on Support for contact the Customer to revert the device
 	- Update: [[Jul 23rd, 2024]]
 		- Revert the scripts
-- GPS Issues - XT6384 #sensata #CTS
+- GPS Issues - XT6384 #sensata #CTS [[status: Platform's Court]]
+  collapsed:: true
 	- Added: [[Aug 6, 2024]]
-	- Status: [[status: Platform's Court]]
-		- Last Change: [[Aug 27th, 2024]]
+	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-1184
 	- Vendor Ticket(s): XSS-5812
 	- Update: [[Aug 20, 2024]]
