@@ -84,4 +84,6 @@
 		- Mike pointed them to the test pool
 	- Update: [[Aug 6, 2024]]
 		- Ray wants to bring this up since it seems to be happening on a regular basis. Push back on Ray for HE and XSS tickets
-		-
+			- Get info on XSS tickets
+			  SCHEDULED: <2024-08-30 Fri 09:00>
+-
