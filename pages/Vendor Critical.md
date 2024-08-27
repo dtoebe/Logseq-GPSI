@@ -23,7 +23,7 @@
 		- {{embed ((66ccdd32-3618-4095-8a0b-1c75631776fb))}}
 	-
 - Ghost Bluetooth #sensata #CTS
-	- Added:
+	- Added: [[May 23, 2024]]
 	- Status: [[status: Vendor's Court]]
 		- Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-900
@@ -35,4 +35,6 @@
 	- Update: [[Jul 23rd, 2024]]
 		- Blocked on the 1133 Patch
 - INCIDENT - XT6379A, XT6360 - Cell Issue (77H) #sensata #CTS
-	-
+	- Added: [[Jul 23rd, 2024]]
+	- Status: [[status: Platform's Court]]
+		-
