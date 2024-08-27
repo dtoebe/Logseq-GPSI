@@ -32,7 +32,8 @@
 	- Update: [[Jul 23rd, 2024]]
 		- Only seeing this on Cat-1 devices
 	- Update: [[Aug 27th, 2024]]
-		-
+		- We are updating the J script now
+		- We have tested the reset modem and #cts-ross says we should move forward
 - Ignition Events Being Missed Until Device Is Reset #sensata #CTS
   collapsed:: true
 	- Added: [[Jan 11, 2024]]
