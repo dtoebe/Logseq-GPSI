@@ -1,5 +1,5 @@
-- TEMPLATE <Title> <tag: vendor> <tag: platform> <status:
-	- Added: [[Aug 6, 2024]]
+- TEMPLATE <Title> <tag: vendor> <tag: platform> <status: of issue>
+	- Added: Date Added []
 	- Status: [[status: Platform's Court]]
 		- Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-1184
