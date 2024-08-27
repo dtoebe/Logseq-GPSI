@@ -23,6 +23,7 @@
 		- {{embed ((66ccdd32-3618-4095-8a0b-1c75631776fb))}}
 	-
 - Ghost Bluetooth #sensata #CTS
+  collapsed:: true
 	- Added: [[May 23, 2024]]
 	- Status: [[status: Vendor's Court]]
 		- Last Change: [[Aug 27th, 2024]]
@@ -46,6 +47,7 @@
 	- Update: [[Jul 23rd, 2024]]
 		- Only seeing this on Cat-1 devices
 - Ignition Events Being Missed Until Device Is Reset #sensata #CTS
+  collapsed:: true
 	- Added: [[Jan 11, 2024]]
 	- Status: [[status: Platform's Court]]
 		- Last Change: [[Aug 27th, 2024]]
@@ -60,4 +62,5 @@
 - GPS Issues - XT6384 #sensata #CTS
 	- Added: [[Aug 6, 2024]]
 	- Status: [[status: Platform's Court]]
-		- Last Change:
+		- Last Change: [[Aug 27th, 2024]]
+	-
