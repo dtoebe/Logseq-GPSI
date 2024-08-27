@@ -53,10 +53,10 @@
 	- [[Proj: CTS Rodgers Network]]
 - TODO Identify two people that I'd value feedback from and request for it. Thinking Jake or Kim, Chris after I meet with him around the strategy idea. #WORK #management #coaching
 - TODO Think about how I can use the aid mnemonic in chapter 5 of the Tao of Coaching. #PERSONAL #management #coaching
-- DOING Using #gpsi-ray bullet points on priorities, find out exactly where #cts-mike is with each priority and how we can balance getting those things done. #WORK #CTS
+- DONE Using #gpsi-ray bullet points on priorities, find out exactly where #cts-mike is with each priority and how we can balance getting those things done. #WORK #CTS
   id:: 66ccac21-9a7f-4ece-b3c0-0d1a2abebc39
   :LOGBOOK:
-  CLOCK: [2024-08-26 Mon 10:16:11]
+  CLOCK: [2024-08-26 Mon 10:16:11]--[2024-08-27 Tue 14:47:10] =>  28:30:59
   :END:
 	- Slack Link: https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724433907956149
 	- [[2024-08-23]]: Ray's Ordered Priorities
