@@ -93,3 +93,10 @@
 	- Vendor Ticket(s):
 	- Update: <Array> Latest on top: Example: [[Jan, 01, 2024]]
 		- Update summary
+- Update Process for Re-Animate #sensata #CTS [[status: Vendor's Court]]
+	- Added: [[Aug 20, 2024]]
+	- Status Last Change:
+	- HE Ticket(s): HE Project Tickets
+	- Vendor Ticket(s): Vendor Ticket numbers
+	- Update: <Array> Latest on top: Example: [[Jan, 01, 2024]]
+		- Update summary
