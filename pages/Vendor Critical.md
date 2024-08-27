@@ -1,6 +1,7 @@
 - POD FW #calamp #GPSI
+  collapsed:: true
 	- Status: [[status: Done]]
-		- Done: [[Aug 26th, 2024]]
+		- Last Change: [[Aug 26th, 2024]]
 	- HE Ticket(s):
 	- Vendor Ticket(s): CTCS-71659
 	- Update [[Aug 26th, 2024]]
@@ -14,8 +15,9 @@
 	- Update [[Aug 26th, 2024]]
 		- {{embed ((66ccdd32-bb38-43d8-8b92-22abb7ae6ba6))}}
 - Signed / Unsigned accumulators  #calamp #GPSI
+  collapsed:: true
 	- Status: [[status: Done]]
-		-
+		- Last Change: [[Aug 26th, 2024]]
 	- HE Ticket(s):
 	- Vendor Ticket(s): CTC-8690
 	- Updated [[Aug 26th, 2024]]
@@ -23,6 +25,7 @@
 	-
 - Ghost Bluetooth #sensata #CTS
 	- Status: [[status: Vendor's Court]]
+		- Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-900
 	- Vendor Ticket(s): XSS-5619, XSS-5573, XSS-5664
 	-
