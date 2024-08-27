@@ -82,3 +82,6 @@
 	- Vendor Ticket(s):
 	- Update: [[Aug 20, 2024]]
 		- Mike pointed them to the test pool
+	- Update: [[Aug 6, 2024]]
+		- Ray wants to bring this up since it seems to be happening on a regular basis. Push back on Ray for HE and XSS tickets
+		-
