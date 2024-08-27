@@ -1,3 +1,4 @@
+- TEMPLATE
 - POD FW #calamp #GPSI
   collapsed:: true
 	- Status: [[status: Done]]
@@ -68,4 +69,4 @@
 	- Vendor Ticket(s): XSS-5812
 	- Update: [[Aug 20, 2024]]
 		- Requested customer to get back to us
--
+- Xirgo cam Accident and Corrupt video during crashes #sensata #CTS
