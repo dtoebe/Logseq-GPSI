@@ -37,4 +37,6 @@
 - INCIDENT - XT6379A, XT6360 - Cell Issue (77H) #sensata #CTS
 	- Added: [[Jul 23rd, 2024]]
 	- Status: [[status: Platform's Court]]
-		-
+		- Last Change: [[Aug 27th, 2024]]
+	- HE Ticket(s): HE-1375
+	- Vendor Ticket(s): XSS-5766
