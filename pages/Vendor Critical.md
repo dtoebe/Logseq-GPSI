@@ -1,5 +1,4 @@
 - POD FW #calamp #GPSI
-  collapsed:: true
 	- Status: [[status: Done]]
 	- HE Ticket(s):
 	- Vendor Ticket(s): CTCS-71659
@@ -21,4 +20,5 @@
 		- {{embed ((66ccdd32-3618-4095-8a0b-1c75631776fb))}}
 	-
 - Ghost Bluetooth #sensata #CTS
+	- Status: [[status: Vendor's Court]]
 	-
