@@ -1,0 +1,5 @@
+- POD FW [[Vendor Critical]] [[Vendor Critical GPSI]]
+	- CTCS-71659
+	- Update [[Aug 26th, 2024]]
+		- Workaround it to re-schedule the 1.4E update
+		- Per #gpsi-ray: All good here
