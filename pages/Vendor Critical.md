@@ -102,4 +102,10 @@
 	- Vendor Ticket(s):
 	- Update: [[Aug 20, 2024]]
 		- Mike is still waiting
--
+- New KP2, fulfillment cannot connect #sensata #CTS [[status: Vendor's Court]]
+	- Added: [[Aug 20, 2024]]
+	- Status Last Change:
+	- HE Ticket(s): HE Project Tickets
+	- Vendor Ticket(s): Vendor Ticket numbers
+	- Update: <Array> Latest on top: Example: [[Jan, 01, 2024]]
+		- Update summary
