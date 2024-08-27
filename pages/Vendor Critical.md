@@ -89,7 +89,6 @@
 		- er Ray (slack): For this KP2 thing, can we be sure we get a jira ticket on our side, critical status? I'd like Mike or Jeff to walk through the comms in the config to be sure nothing's changed or broken.
 		  [https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679](https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679)<!-- notionvc: d845493f-fe71-4901-8606-88e9626cb951 -->
 -
--
 - # Done
 	- POD FW #calamp #GPSI [[status: Done]]
 	  collapsed:: true
