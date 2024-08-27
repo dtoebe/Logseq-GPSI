@@ -1,5 +1,6 @@
 - POD FW #calamp #GPSI
 	- Status: [[status: Done]]
+		- Done: [[Aug 26th, 2024]]
 	- HE Ticket(s):
 	- Vendor Ticket(s): CTCS-71659
 	- Update [[Aug 26th, 2024]]
@@ -7,13 +8,14 @@
 - Diag Vals High (Accel/Decel) #calamp #GPSI
   collapsed:: true
 	- Status: [[status: Vendor's Court]]
+		- Last Change: [[Aug 26th, 2024]]
 	- HE Ticket(s):
 	- Vendor Ticket(s): CTCS-71277
 	- Update [[Aug 26th, 2024]]
 		- {{embed ((66ccdd32-bb38-43d8-8b92-22abb7ae6ba6))}}
 - Signed / Unsigned accumulators  #calamp #GPSI
-  collapsed:: true
 	- Status: [[status: Done]]
+		-
 	- HE Ticket(s):
 	- Vendor Ticket(s): CTC-8690
 	- Updated [[Aug 26th, 2024]]
