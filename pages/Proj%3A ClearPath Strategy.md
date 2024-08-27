@@ -4,4 +4,5 @@
 	- Consume all data through #kafka
 		- Then we can have a "router" push to #GPSI or #ClearPath
 		- If we could have 360 consume the same shape of data for both #GPSI and #ClearPath
-		- This would make the 360 platform be the single pane of glass that [[Channel Partners]]
+		- This would make the 360 platform be the single pane of glass that [[Channel Partners]] want
+		-
