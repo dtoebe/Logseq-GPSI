@@ -1,2 +1,3 @@
 ## What If
-	- We make clearpath accept GPSI
+	- We make #ClearPath take #GPSI #devices configs
+	- #migrate all  to #ClearPath
