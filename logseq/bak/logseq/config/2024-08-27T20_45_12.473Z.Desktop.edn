@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["todo" "blocked" "doing" "cp-soheil" "cts-anthony" "cts-kim" "cts-mike" "gpsi-brent" "gpsi-chris-p" "gpsi-jake" "gpsi-ray" "management" "coaching" "gpsi-bill"]
+ :favorites ["quick capture" "later" "todo" "blocked" "doing" "vendor critical" "cp-soheil" "cts-anthony" "cts-kim" "cts-mike" "gpsi-brent" "gpsi-bill" "gpsi-chris-p" "gpsi-jake" "gpsi-ray" "management" "coaching"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -419,5 +419,6 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :graph/settings {:journal? false
- :builtin-pages? true}}
+ :graph/settings {:journal? true
+ :builtin-pages? true}
+ :custom-css-url "@import url('https://cdn.jsdelivr.net/gh/dracula/logseq@master/custom.css');"}
