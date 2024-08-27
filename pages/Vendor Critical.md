@@ -1,13 +1,11 @@
-- POD FW [[Vendor Critical]]
+- POD FW [[Vendor Critical]] #calamp #GPSI
 	- Status: [[status: Done]]
-	- Vendor / Platform: #calamp / #GPSI
 	- HE Ticket(s):
 	- Vendor Ticket(s): CTCS-71659
 	- Update [[Aug 26th, 2024]]
 		- {{embed ((66ccdd32-108c-4f7b-920b-3a1dab34909f))}}
-- Diag Vals High (Accel/Decel) [[Vendor Critical]]
+- Diag Vals High (Accel/Decel) [[Vendor Critical]] #calamp #GPSI
 	- Status: [[status: Vendor's Court]]
-	- Vendor / Platform: #calamp / #GPSI
 	- HE Ticket(s):
 	- Vendor Ticket(s): CTCS-71277
 	- Update [[Aug 26th, 2024]]
