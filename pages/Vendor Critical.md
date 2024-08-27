@@ -76,6 +76,7 @@
 	- Update: [[Aug 20, 2024]]
 		- Requested customer to get back to us
 - Xirgo cam Accident and Corrupt video during crashes #sensata #CTS [[status: Vendor's Court]]
+  collapsed:: true
 	- Added: [[Aug 6, 2024]]
 	- Status Last Change: Example: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-371
@@ -86,4 +87,4 @@
 		- Ray wants to bring this up since it seems to be happening on a regular basis. Push back on Ray for HE and XSS tickets
 			- Get info on XSS tickets
 			  SCHEDULED: <2024-08-30 Fri 09:00>
--
+- Troubleshoot Airmar Data - T316
