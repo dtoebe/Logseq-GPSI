@@ -79,6 +79,6 @@
 	- Added: [[Aug 6, 2024]]
 	- Status Last Change: Example: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-371
-	- Vendor Ticket(s): Vendor Ticket numbers
-	- Update: <Array> Latest on top: Example: [[Jan, 01, 2024]]
-		- Update summary
+	- Vendor Ticket(s):
+	- Update: [[Aug 20, 2024]]
+		- Mike pointed them to the test pool
