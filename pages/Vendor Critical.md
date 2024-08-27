@@ -2,17 +2,17 @@
 	- Added: Date Added Example: [[Jan, 01, 2024]]
 	- Status Last Change: Example: [[Jan, 01, 2024]]
 	- HE Ticket(s): HE Project Tickets
-	- Vendor Ticket(s): Vendor
-	- Update: [[Aug 20, 2024]]
-		- Requested customer to get back to us
+	- Vendor Ticket(s): Vendor Ticket numbers
+	- Update: <Array> Latest on top: Example: [[Jan, 01, 2024]]
+		- Update summary
 - POD FW #calamp #GPSI [[status: Done]]
+  collapsed:: true
 	- Last Change: [[Aug 26th, 2024]]
 	- HE Ticket(s):
 	- Vendor Ticket(s): CTCS-71659
 	- Update [[Aug 26th, 2024]]
 		- {{embed ((66ccdd32-108c-4f7b-920b-3a1dab34909f))}}
-- Diag Vals High (Accel/Decel) #calamp #GPSI
-  collapsed:: true
+- Diag Vals High (Accel/Decel) #calamp #GPSI [[status: Vendor's Court]]
 	- Status: [[status: Vendor's Court]]
 		- Last Change: [[Aug 26th, 2024]]
 	- HE Ticket(s):
