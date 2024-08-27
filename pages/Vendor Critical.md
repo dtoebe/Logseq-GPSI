@@ -1,16 +1,13 @@
-- POD FW [[Vendor Critical]] [[Vendor Critical GPSI]]
+- POD FW [[Vendor Critical]]
 	- #calamp
 	- CTCS-71659
 	- Update [[Aug 26th, 2024]]
-		- Workaround it to re-schedule the 1.4E update
-		- Per #gpsi-ray: All good here
-- Diag Vals High (Accel/Decel) [[Vendor Critical]] [[Vendor Critical GPSI]]
+		- {{embed ((66ccdd32-108c-4f7b-920b-3a1dab34909f))}}
+- Diag Vals High (Accel/Decel) [[Vendor Critical]]
 	- #calamp
 	- CTCS-71277
 	- Update [[Aug 26th, 2024]]
-		- #calamp sent a fw with enhanced logging and #GPSI sent back with the issued event.
-		- #calamp engineering still looking into it
-			- May have identified the root cause, but not ready to share w/ us
+		- {{embed ((66ccdd32-bb38-43d8-8b92-22abb7ae6ba6))}}
 - Signed / Unsigned accumulators [[Vendor Critical]] [[Vendor Critical GPSI]]
 	- #calamp
 	- CTC-8690
