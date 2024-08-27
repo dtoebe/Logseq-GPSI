@@ -30,4 +30,7 @@
 	- Vendor Ticket(s): XSS-5619, XSS-5573, XSS-5664
 	- Update: [[Aug 6, 2024]]
 		- Committing to Aug 23rd EOD
-	-
+	- Update: [[Jul 23rd, 2024]]
+		- Timeline RN is the end of Aug, Tim Nelson is trying to get that earlier
+	- Update: [[Jul 23rd, 2024]]
+		- Blocked on the 1133 Patch
