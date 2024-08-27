@@ -1,4 +1,5 @@
 - TEMPLATE <Title> <tag: vendor> <tag: platform> <status: of issue>
+  collapsed:: true
 	- Added: Date Added Example: [[Jan, 01, 2024]]
 	- Status Last Change: Example: [[Jan, 01, 2024]]
 	- HE Ticket(s): HE Project Tickets
@@ -74,4 +75,10 @@
 	- Vendor Ticket(s): XSS-5812
 	- Update: [[Aug 20, 2024]]
 		- Requested customer to get back to us
-- Xirgo cam Accident and Corrupt video during crashes #sensata #CTS
+- Xirgo cam Accident and Corrupt video during crashes #sensata #CTS [[status: Vendor's Court]]
+	- Added: [[Aug 6, 2024]]
+	- Status Last Change: Example: [[Aug 27th, 2024]]
+	- HE Ticket(s): HE-371
+	- Vendor Ticket(s): Vendor Ticket numbers
+	- Update: <Array> Latest on top: Example: [[Jan, 01, 2024]]
+		- Update summary
