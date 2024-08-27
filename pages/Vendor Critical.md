@@ -87,6 +87,7 @@
 			- Get info on XSS tickets
 			  SCHEDULED: <2024-08-30 Fri 09:00>
 - Troubleshoot Airmar Data - T316 #WBD-V2 #CTS [[status: Platform's Court]]
+  collapsed:: true
 	- Added: [[Aug, 01, 2024]]
 	- Status Last Change: [[Aug 01, 2024]]
 	- HE Ticket(s): HE-1373
@@ -94,9 +95,11 @@
 	- Update: <Array> Latest on top: Example: [[Jan, 01, 2024]]
 		- Update summary
 - Update Process for Re-Animate #sensata #CTS [[status: Vendor's Court]]
+  collapsed:: true
 	- Added: [[Aug 20, 2024]]
-	- Status Last Change:
-	- HE Ticket(s): HE Project Tickets
-	- Vendor Ticket(s): Vendor Ticket numbers
-	- Update: <Array> Latest on top: Example: [[Jan, 01, 2024]]
-		- Update summary
+	- Status Last Change: [[Aug 20, 2024]]
+	- HE Ticket(s):
+	- Vendor Ticket(s):
+	- Update: [[Aug 20, 2024]]
+		- Mike is still waiting
+-
