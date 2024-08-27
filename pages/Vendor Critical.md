@@ -49,4 +49,6 @@
 	- Added: [[Jan 11, 2024]]
 	- Status: [[status: Platform's Court]]
 		- Last Change: [[Aug 27th, 2024]]
+	- HE Ticket(s): HE-360
+	- Vendor Ticket(s): XSS-5117
 	-
