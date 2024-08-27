@@ -104,8 +104,9 @@
 		- Mike is still waiting
 - New KP2, fulfillment cannot connect #sensata #CTS [[status: Vendor's Court]]
 	- Added: [[Aug 20, 2024]]
-	- Status Last Change:
-	- HE Ticket(s): HE Project Tickets
-	- Vendor Ticket(s): Vendor Ticket numbers
-	- Update: <Array> Latest on top: Example: [[Jan, 01, 2024]]
-		- Update summary
+	- Status Last Change: [[Aug 20, 2024]]
+	- HE Ticket(s):
+	- Vendor Ticket(s): EVCC-46
+	- Update: [[Aug 20, 2024]]
+		- Kim wants fulfillment to go through support and needs HE ticket
+		-
