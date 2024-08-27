@@ -22,17 +22,17 @@
 		- Timeline RN is the end of Aug, Tim Nelson is trying to get that earlier
 	- Update: [[Jul 23rd, 2024]]
 		- Blocked on the 1133 Patch
-- INCIDENT - XT6379A, XT6360 - Cell Issue (77H) #sensata #CTS
-  collapsed:: true
+- INCIDENT - XT6379A, XT6360 - Cell Issue (77H) #sensata #CTS [[status: Platform's Court]]
 	- Added: [[Jul 23rd, 2024]]
-	- Status: [[status: Platform's Court]]
-		- Last Change: [[Aug 27th, 2024]]
+	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-1375
 	- Vendor Ticket(s): XSS-5766
 	- Update: [[Aug 20, 2024]]
 		- Anthony is monitoring devices regularly and seeing if we have the reset issue
 	- Update: [[Jul 23rd, 2024]]
 		- Only seeing this on Cat-1 devices
+	- Update: [[Aug 27th, 2024]]
+		-
 - Ignition Events Being Missed Until Device Is Reset #sensata #CTS
   collapsed:: true
 	- Added: [[Jan 11, 2024]]
