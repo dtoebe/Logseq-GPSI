@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["todo" "blocked" "doing" "cp-soheil" "cts-kim" "cts-anthony" "gpsi-chris-p" "gpsi-brent" "gpsi-jake" "management" "coaching" "gpsi-bill" "gpsi-ray" "cts-mike"]
+ :favorites ["quick capture" "LATER" "todo" "blocked" "doing" "cp-soheil" "cts-anthony" "cts-kim" "cts-mike" "gpsi-brent" "gpsi-bill" "gpsi-chris-p" "gpsi-jake" "gpsi-ray" "management" "coaching"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -420,4 +420,5 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :graph/settings {:journal? false
- :builtin-pages? true}}
+ :builtin-pages? true}
+ :custom-css-url "@import url('https://cdn.jsdelivr.net/gh/dracula/logseq@master/custom.css');"}
