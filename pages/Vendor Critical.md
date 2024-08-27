@@ -1,9 +1,8 @@
 - TEMPLATE <Title> <tag: vendor> <tag: platform> <status: of issue>
-	- Added: Date Added []
-	- Status: [[status: Platform's Court]]
-		- Last Change: [[Aug 27th, 2024]]
-	- HE Ticket(s): HE-1184
-	- Vendor Ticket(s): XSS-5812
+	- Added: Date Added Example: [[Jan, 01, 2024]]
+	- Status Last Change: Example: [[Jan, 01, 2024]]
+	- HE Ticket(s): HE Project Tickets
+	- Vendor Ticket(s): Vendor
 	- Update: [[Aug 20, 2024]]
 		- Requested customer to get back to us
 - POD FW #calamp #GPSI [[status: Done]]
