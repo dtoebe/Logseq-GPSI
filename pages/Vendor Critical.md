@@ -21,4 +21,6 @@
 	-
 - Ghost Bluetooth #sensata #CTS
 	- Status: [[status: Vendor's Court]]
+	- HE Ticket(s): HE-900
+	- Vendor Ticket(s): XSS-5619, XSS-5573, XSS-5664
 	-
