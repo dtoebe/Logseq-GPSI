@@ -1,8 +1,13 @@
 - TEMPLATE
-- POD FW #calamp #GPSI
-  collapsed:: true
-	- Status: [[status: Done]]
-		- Last Change: [[Aug 26th, 2024]]
+	- Added: [[Aug 6, 2024]]
+	- Status: [[status: Platform's Court]]
+		- Last Change: [[Aug 27th, 2024]]
+	- HE Ticket(s): HE-1184
+	- Vendor Ticket(s): XSS-5812
+	- Update: [[Aug 20, 2024]]
+		- Requested customer to get back to us
+- POD FW #calamp #GPSI [[status: Done]]
+	- Last Change: [[Aug 26th, 2024]]
 	- HE Ticket(s):
 	- Vendor Ticket(s): CTCS-71659
 	- Update [[Aug 26th, 2024]]
