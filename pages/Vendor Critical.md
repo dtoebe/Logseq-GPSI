@@ -1,5 +1,4 @@
 - Diag Vals High (Accel/Decel) #calamp #GPSI [[status: Vendor's Court]]
-  collapsed:: true
 	- Added: [[Aug 26th, 2024]]
 	- Status Last Change: [[Aug 26th, 2024]]
 	- HE Ticket(s):
