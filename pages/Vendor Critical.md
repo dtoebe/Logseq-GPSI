@@ -1,4 +1,5 @@
-- Diag Vals High (Accel/Decel) #calamp #GPSI [[status: Vendor's Court]]
+- Diag Vals High #calamp #GPSI [[status: Vendor's Court]]
+  collapsed:: true
 	- Added: [[Aug 26th, 2024]]
 	- Status Last Change: [[Aug 26th, 2024]]
 	- HE Ticket(s):
@@ -94,9 +95,7 @@
 		  [https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679](https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679)]]
 -
 - # Done
-  collapsed:: true
 	- POD FW #calamp #GPSI [[status: Done]]
-	  collapsed:: true
 		- Added: [[Aug 26th, 2024]]
 		- Status Last Change: [[Aug 26th, 2024]]
 		- HE Ticket(s):
