@@ -66,6 +66,7 @@
 			- Get info on XSS tickets
 			  SCHEDULED: <2024-08-30 Fri 09:00>
 - Troubleshoot Airmar Data - T316 #WBD-V2 #CTS [[status: Platform's Court]]
+  collapsed:: true
 	- Added: [[Aug, 01, 2024]]
 	- Status Last Change: [[Aug 01, 2024]]
 	- HE Ticket(s): HE-1373
@@ -81,14 +82,13 @@
 	- Update: [[Aug 20, 2024]]
 		- Mike is still waiting
 - New KP2, fulfillment cannot connect #sensata #CTS [[status: Vendor's Court]]
-  collapsed:: true
 	- Added: [[Aug 20, 2024]]
 	- Status Last Change: [[Aug 20, 2024]]
 	- HE Ticket(s):
 	- Vendor Ticket(s): EVCC-46
 	- Update: [[Aug 20, 2024]]
 		- Kim wants fulfillment to go through support and needs HE ticket
-		- er Ray (slack): For this KP2 thing, can we be sure we get a jira ticket on our side, critical status? I'd like Mike or Jeff to walk through the comms in the config to be sure nothing's changed or broken.
+		- Per Ray (slack): For this KP2 thing, can we be sure we get a jira ticket on our side, critical status? I'd like Mike or Jeff to walk through the comms in the config to be sure nothing's changed or broken.
 		  [https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679](https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679)<!-- notionvc: d845493f-fe71-4901-8606-88e9626cb951 -->
 -
 - # Done
