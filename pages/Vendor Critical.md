@@ -95,6 +95,7 @@
 		  [https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679](https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679)]]
 -
 - # Done
+  collapsed:: true
 	- POD FW #calamp #GPSI [[status: Done]]
 		- Added: [[Aug 26th, 2024]]
 		- Status Last Change: [[Aug 26th, 2024]]
