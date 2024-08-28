@@ -42,7 +42,7 @@
   :LOGBOOK:
   CLOCK: [2024-08-26 Mon 10:03:29]
   :END:
-- DOING Rodgers APN Change. #WORK #CTS #cts-sean #gpsi-brent #cts-aptum #device-network #BLOCKED #cts-rodgers
+- DOING Rodgers APN Change. #WORK #CTS #cts-sean #gpsi-brent #cts-aptum #device-network #cts-rodgers
   :LOGBOOK:
   CLOCK: [2024-08-26 Mon 10:06:29]
   :END:
