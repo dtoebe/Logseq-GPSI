@@ -82,16 +82,20 @@
 	- Update: [[Aug 20, 2024]]
 		- Mike is still waiting
 - New KP2, fulfillment cannot connect #sensata #CTS [[status: Vendor's Court]]
+  collapsed:: true
 	- Added: [[Aug 20, 2024]]
 	- Status Last Change: [[Aug 20, 2024]]
 	- HE Ticket(s):
 	- Vendor Ticket(s): EVCC-46
+	- Update: [[Aug 28th, 2024]]
+		- TODO can we check to see if a #sim change will effect anything
 	- Update: [[Aug 20, 2024]]
 		- Kim wants fulfillment to go through support and needs HE ticket
-		- Per Ray (slack): For this #sensata-KP2 thing, can we be sure we get a jira ticket on our side, critical status? I'd like Mike or Jeff to walk through the comms in the config to be sure nothing's changed or broken.
-		  [https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679](https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679)<!-- notionvc: d845493f-fe71-4901-8606-88e9626cb951 -->
+		- Per Ray (slack): For this #sensata-KP2 thing, can we be sure we get a #[[jira ticket on our side, critical status? I'd like Mike or Jeff to walk through the comms in the config to be sure nothing's changed or broken.
+		  [https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679](https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679)]]
 -
 - # Done
+  collapsed:: true
 	- POD FW #calamp #GPSI [[status: Done]]
 	  collapsed:: true
 		- Added: [[Aug 26th, 2024]]
