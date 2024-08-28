@@ -66,7 +66,6 @@
 			- Get info on XSS tickets
 			  SCHEDULED: <2024-08-30 Fri 09:00>
 - Troubleshoot Airmar Data - T316 #WBD-V2 #CTS [[status: Platform's Court]]
-  collapsed:: true
 	- Added: [[Aug, 01, 2024]]
 	- Status Last Change: [[Aug 01, 2024]]
 	- HE Ticket(s): HE-1373
