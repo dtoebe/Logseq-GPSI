@@ -103,7 +103,6 @@
 		- Update [[Aug 26th, 2024]]
 			- {{embed ((66ccdd32-108c-4f7b-920b-3a1dab34909f))}}
 	- Signed / Unsigned accumulators  #calamp #GPSI [[status: Done]]
-	  collapsed:: true
 		- Added: [[Aug 26th, 2024]]
 		- Status Last Change: [[Aug 26th, 2024]]
 		- HE Ticket(s):
