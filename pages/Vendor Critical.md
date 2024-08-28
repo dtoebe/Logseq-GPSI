@@ -9,6 +9,7 @@
 	- Update [[Aug 26th, 2024]]
 		- {{embed ((66ccdd32-bb38-43d8-8b92-22abb7ae6ba6))}}
 - Ghost Bluetooth #sensata #CTS [[status: Vendor's Court]]
+  collapsed:: true
 	- Added: [[May 23, 2024]]
 	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-900
