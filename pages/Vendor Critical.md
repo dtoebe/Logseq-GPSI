@@ -39,10 +39,12 @@
 		- Only seeing this on Cat-1 devices
 - Ignition Events Being Missed Until Device Is Reset #sensata #CTS
 	- Added: [[Jan 11, 2024]]
-	- Status: [[status: Platform's Court]]
+	- Status: [[status: Vendor's Court]]
 		- Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-360
 	- Vendor Ticket(s): XSS-5117
+	- Update: [[Sep 3rd, 2024]]
+		- We enabled logging and logs sent to #sensata. Waiting on updates from #sensata
 	- Update: [[Aug 20, 2024]]
 		- We are waiting on the customer to reply
 	- Update: [[Aug 6, 2024]]
