@@ -62,6 +62,7 @@
 	- Vendor Ticket(s): XSS-5812
 	- Update: [[Sep 3rd, 2024]]
 		- We sent device to customer. Enabled logging. Waiting on #sensata response
+		- #sensata asked one of them back as an RMA
 	- Update: [[Aug 20, 2024]]
 		- Requested customer to get back to us
 - Xirgo cam Accident and Corrupt video during crashes #sensata #CTS [[status: Platform's Court]]
