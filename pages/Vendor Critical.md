@@ -56,17 +56,18 @@
 	- Update: [[Jul 23rd, 2024]]
 		- Revert the scripts
 - GPS Issues - XT6384 #sensata #CTS [[status: Vendor's Court]]
+  collapsed:: true
 	- Added: [[Aug 6, 2024]]
 	- Status Last Change: [[Sep 3rd, 2024]]
 	- HE Ticket(s): HE-1184
 	- Vendor Ticket(s): XSS-5812
 	- Update: [[Sep 3rd, 2024]]
 		- We sent device to customer. Enabled logging. Waiting on #sensata response
-		- #sensata asked one of them back as an RMA. NA2.2 #firmware has detection of the unknown #GPS state. #cts-ross to update the devices to that #firmware
+		- #sensata asked one of them back as an RMA. NA2.2 #firmware has detection of the unknown #GPS state. #cts-ross to update the devices to that #firmware.
+		- #sensata recommends getting affected #firmware NA2.2
 	- Update: [[Aug 20, 2024]]
 		- Requested customer to get back to us
 - Xirgo cam Accident and Corrupt video during crashes #sensata #CTS [[status: Platform's Court]]
-  collapsed:: true
 	- Added: [[Aug 6, 2024]]
 	- Status Last Change: [[Sep 3rd, 2024]]
 	- HE Ticket(s): HE-371
