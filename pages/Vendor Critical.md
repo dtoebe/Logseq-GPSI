@@ -41,12 +41,14 @@
 	- Update: [[Jul 23rd, 2024]]
 		- Only seeing this on Cat-1 devices
 - Ignition Events Being Missed Until Device Is Reset #sensata #CTS [[status: Vendor's Court]]
+  collapsed:: true
 	- Added: [[Jan 11, 2024]]
 	- Status Last Change: [[Sep 3rd, 2024]]
 	- HE Ticket(s): HE-360
 	- Vendor Ticket(s): XSS-5117
 	- Update: [[Sep 3rd, 2024]]
 		- We enabled logging and logs sent to #sensata. Waiting on updates from #sensata
+		- #sensata has the logs and waiting on the vehicle bus team to eval
 	- Update: [[Aug 20, 2024]]
 		- We are waiting on the customer to reply
 	- Update: [[Aug 6, 2024]]
