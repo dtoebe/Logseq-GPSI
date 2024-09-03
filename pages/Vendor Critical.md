@@ -30,7 +30,7 @@
 		- the extra messages have not  helped. the only method of debugging is to serially debug while the issue is happening. #cts-jeff has an effected device.
 		- #sensata says it was authentication failure from the cell provider.
 		- We seem to only have happening to Bell.
-			-
+			- TODO discuss issue and verbaige w/ #cts-ross and #cts-anthony then reach out to
 	- Update: [[Aug 27th, 2024]]
 		- {{embed ((66ce315d-da17-4b22-a8de-3ad0feee85b9))}}
 	- Update: [[Aug 20, 2024]]
