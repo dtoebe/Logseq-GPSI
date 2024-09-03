@@ -107,7 +107,7 @@
 	- Vendor Ticket(s): EVCC-46
 	- Update: [[Sep 3rd, 2024]]
 		- We need an update today. They might have the RCA this week
-		- #sensata Status:
+		- #sensata Status: the devices came w/ #firmware 1.4.3 and creates a unreadable partition.
 	- Update: [[Aug 28th, 2024]]
 		- DONE can we check to see if a #sim change will effect anything
 			- [[Sep 3rd, 2024]] we tried to no avail
