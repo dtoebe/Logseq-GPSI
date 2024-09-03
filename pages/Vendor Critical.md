@@ -96,7 +96,8 @@
 	- HE Ticket(s): HE-1460
 	- Vendor Ticket(s): EVCC-46
 	- Update: [[Aug 28th, 2024]]
-		- TODO can we check to see if a #sim change will effect anything
+		- DONE can we check to see if a #sim change will effect anything
+			- [[Sep 3rd, 2024]]
 	- Update: [[Aug 20, 2024]]
 		- Kim wants fulfillment to go through support and needs HE ticket
 		- Per Ray (slack): For this #sensata-KP2 thing, can we be sure we get a #jira ticket on our side, critical status? I'd like Mike or Jeff to walk through the comms in the config to be sure nothing's changed or broken.
