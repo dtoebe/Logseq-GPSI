@@ -93,7 +93,7 @@
 - New KP2, fulfillment cannot connect #sensata #CTS [[status: Vendor's Court]]
 	- Added: [[Aug 20, 2024]]
 	- Status Last Change: [[Aug 20, 2024]]
-	- HE Ticket(s):
+	- HE Ticket(s): HE-1460
 	- Vendor Ticket(s): EVCC-46
 	- Update: [[Aug 28th, 2024]]
 		- TODO can we check to see if a #sim change will effect anything
