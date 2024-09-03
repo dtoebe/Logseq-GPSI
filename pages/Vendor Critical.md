@@ -13,6 +13,8 @@
 	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-900
 	- Vendor Ticket(s): XSS-5619, XSS-5573, XSS-5664
+	- Update: [[Sep 3rd, 2024]]
+		- Patch is not resolving the issue. We have seen 2 additional instances
 	- Update: [[Aug 6, 2024]]
 		- Committing to Aug 23rd EOD
 	- Update: [[Jul 23rd, 2024]]
