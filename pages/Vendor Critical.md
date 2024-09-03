@@ -20,7 +20,6 @@
 	- Update: [[Jul 23rd, 2024]]
 		- Blocked on the 1133 Patch
 - INCIDENT - XT6379A, XT6360 - Cell Issue (77H) #sensata #CTS [[status: Platform's Court]]
-  collapsed:: true
 	- Added: [[Jul 23rd, 2024]]
 	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-1375
@@ -32,7 +31,6 @@
 	- Update: [[Jul 23rd, 2024]]
 		- Only seeing this on Cat-1 devices
 - Ignition Events Being Missed Until Device Is Reset #sensata #CTS
-  collapsed:: true
 	- Added: [[Jan 11, 2024]]
 	- Status: [[status: Platform's Court]]
 		- Last Change: [[Aug 27th, 2024]]
@@ -92,7 +90,6 @@
 		- Kim wants fulfillment to go through support and needs HE ticket
 		- Per Ray (slack): For this #sensata-KP2 thing, can we be sure we get a #jira ticket on our side, critical status? I'd like Mike or Jeff to walk through the comms in the config to be sure nothing's changed or broken.
 		  [https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679](https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679)]]
-- Status  of 3.20.6 -> 3.
 - # Done
   collapsed:: true
 	- POD FW #calamp #GPSI [[status: Done]]
