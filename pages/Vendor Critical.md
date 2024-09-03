@@ -90,13 +90,14 @@
 	- Update: <Array> Latest on top: Example: [[Jan, 01, 2024]]
 		- Update summary
 - Update Process for Re-Animate #sensata #CTS [[status: Vendor's Court]]
+  collapsed:: true
 	- Added: [[Aug 20, 2024]]
 	- Status Last Change: [[Aug 20, 2024]]
 	- HE Ticket(s):
 	- Vendor Ticket(s):
 	- Update: [[Sep 3rd, 2024]]
 		- Need update from #sensata-jay
-		-
+		- #sensata to send over docs
 	- Update: [[Aug 20, 2024]]
 		- Mike is still waiting
 - New KP2, fulfillment cannot connect #sensata #CTS [[status: Vendor's Court]]
@@ -106,6 +107,7 @@
 	- Vendor Ticket(s): EVCC-46
 	- Update: [[Sep 3rd, 2024]]
 		- We need an update today. They might have the RCA this week
+		- #sensata Status:
 	- Update: [[Aug 28th, 2024]]
 		- DONE can we check to see if a #sim change will effect anything
 			- [[Sep 3rd, 2024]] we tried to no avail
