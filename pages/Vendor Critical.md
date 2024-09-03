@@ -103,7 +103,7 @@
 - New KP2, fulfillment cannot connect #sensata #CTS [[status: Vendor's Court]]
 	- Added: [[Aug 20, 2024]]
 	- Status Last Change: [[Aug 20, 2024]]
-	- HE Ticket(s): HE-1460
+	- HE Ticket(s): HE-1460, HE-1180
 	- Vendor Ticket(s): EVCC-46
 	- Update: [[Sep 3rd, 2024]]
 		- We need an update today. They might have the RCA this week
