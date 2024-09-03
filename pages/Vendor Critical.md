@@ -86,6 +86,8 @@
 	- Status Last Change: [[Aug 20, 2024]]
 	- HE Ticket(s):
 	- Vendor Ticket(s):
+	- Update: [[Sep 3rd, 2024]]
+		- Need update from #sensata-jay
 	- Update: [[Aug 20, 2024]]
 		- Mike is still waiting
 - New KP2, fulfillment cannot connect #sensata #CTS [[status: Vendor's Court]]
