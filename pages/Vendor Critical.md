@@ -9,13 +9,14 @@
 	- Update [[Aug 26th, 2024]]
 		- {{embed ((66ccdd32-bb38-43d8-8b92-22abb7ae6ba6))}}
 - Ghost Bluetooth #sensata #CTS [[status: Vendor's Court]]
+  collapsed:: true
 	- Added: [[May 23, 2024]]
 	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-900
 	- Vendor Ticket(s): XSS-5619, XSS-5573, XSS-5664
 	- Update: [[Sep 3rd, 2024]]
 		- Patch is not resolving the issue. We have seen 3 additional instances. No calls to support over the weekend. We are going continue to test for a few more days
-		- The new #firmware requires a new config and new param BTC for new timer. Apply with BY config
+		- The new #firmware NA2.2 requires a new config and new param BTC for new timer. Apply with BY config.
 	- Update: [[Aug 6, 2024]]
 		- Committing to Aug 23rd EOD
 	- Update: [[Jul 23rd, 2024]]
@@ -23,6 +24,7 @@
 	- Update: [[Jul 23rd, 2024]]
 		- Blocked on the 1133 Patch
 - INCIDENT - XT6379A, XT6360 - Cell Issue (77H) #sensata #CTS [[status: Platform's Court]]
+  collapsed:: true
 	- Added: [[Jul 23rd, 2024]]
 	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-1375
