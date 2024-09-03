@@ -14,7 +14,7 @@
 	- HE Ticket(s): HE-900
 	- Vendor Ticket(s): XSS-5619, XSS-5573, XSS-5664
 	- Update: [[Sep 3rd, 2024]]
-		- Patch is not resolving the issue. We have seen 2 additional instances
+		- Patch is not resolving the issue. We have seen 2 additional instances. No calls to support over the weekend. We are going continue to test for a few more days
 	- Update: [[Aug 6, 2024]]
 		- Committing to Aug 23rd EOD
 	- Update: [[Jul 23rd, 2024]]
@@ -26,6 +26,7 @@
 	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-1375
 	- Vendor Ticket(s): XSS-5766
+	- Update: [[Sep 3rd, 2024]]
 	- Update: [[Aug 27th, 2024]]
 		- {{embed ((66ce315d-da17-4b22-a8de-3ad0feee85b9))}}
 	- Update: [[Aug 20, 2024]]
