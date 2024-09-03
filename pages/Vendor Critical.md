@@ -56,6 +56,8 @@
 	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-1184
 	- Vendor Ticket(s): XSS-5812
+	- Update: [[Sep 3rd, 2024]]
+		- We sent device to
 	- Update: [[Aug 20, 2024]]
 		- Requested customer to get back to us
 - Xirgo cam Accident and Corrupt video during crashes #sensata #CTS [[status: Vendor's Court]]
