@@ -51,13 +51,13 @@
 		- Waiting on Support for contact the Customer to revert the device
 	- Update: [[Jul 23rd, 2024]]
 		- Revert the scripts
-- GPS Issues - XT6384 #sensata #CTS [[status: Platform's Court]]
+- GPS Issues - XT6384 #sensata #CTS [[status: Vendor's Court]]
 	- Added: [[Aug 6, 2024]]
 	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-1184
 	- Vendor Ticket(s): XSS-5812
 	- Update: [[Sep 3rd, 2024]]
-		- We sent device to
+		- We sent device to customer. Enabled logging. Waiting on #sensata response
 	- Update: [[Aug 20, 2024]]
 		- Requested customer to get back to us
 - Xirgo cam Accident and Corrupt video during crashes #sensata #CTS [[status: Vendor's Court]]
