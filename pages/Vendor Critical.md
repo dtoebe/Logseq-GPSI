@@ -110,7 +110,7 @@
 		- #sensata Status: the devices came w/ #firmware 1.4.3 and creates a unreadable partition. Cannot be rolled back. #sensata only has stock of the affected units. We have to upgrade 1.4.3, and this should resolve the issue. #firmware 1.4.3 is the new minimum for these #devices.
 			- Clear the #firmware, and then reinstall the #firmware
 			- #cts-fulfillment should create an #ASK ticket.
-			- #sensata confirming if we can update serially
+			- #sensata confirming if we can update serially.
 	- Update: [[Aug 28th, 2024]]
 		- DONE can we check to see if a #sim change will effect anything
 			- [[Sep 3rd, 2024]] we tried to no avail
