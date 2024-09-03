@@ -15,7 +15,7 @@
 	- Vendor Ticket(s): XSS-5619, XSS-5573, XSS-5664
 	- Update: [[Sep 3rd, 2024]]
 		- Patch is not resolving the issue. We have seen 3 additional instances. No calls to support over the weekend. We are going continue to test for a few more days
-		- The new #firmware requires a new config an
+		- The new #firmware requires a new config and new param BTC for new timer. Apply with BY config
 	- Update: [[Aug 6, 2024]]
 		- Committing to Aug 23rd EOD
 	- Update: [[Jul 23rd, 2024]]
