@@ -52,7 +52,7 @@
 		- Revert the scripts
 - GPS Issues - XT6384 #sensata #CTS [[status: Vendor's Court]]
 	- Added: [[Aug 6, 2024]]
-	- Status Last Change: [[Aug 27th, 2024]]
+	- Status Last Change: [[Sep 3rd, 2024]]
 	- HE Ticket(s): HE-1184
 	- Vendor Ticket(s): XSS-5812
 	- Update: [[Sep 3rd, 2024]]
@@ -64,6 +64,8 @@
 	- Status Last Change: Example: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-371
 	- Vendor Ticket(s):
+	- Update: [[Sep 3rd, 2024]]
+	-
 	- Update: [[Aug 20, 2024]]
 		- Mike pointed them to the test pool
 	- Update: [[Aug 6, 2024]]
