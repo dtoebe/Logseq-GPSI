@@ -101,13 +101,14 @@
 	- Update: [[Aug 20, 2024]]
 		- Mike is still waiting
 - New KP2, fulfillment cannot connect #sensata #CTS [[status: Vendor's Court]]
+  collapsed:: true
 	- Added: [[Aug 20, 2024]]
 	- Status Last Change: [[Aug 20, 2024]]
 	- HE Ticket(s): HE-1460
 	- Vendor Ticket(s): EVCC-46
 	- Update: [[Sep 3rd, 2024]]
 		- We need an update today. They might have the RCA this week
-		- #sensata Status: the devices came w/ #firmware 1.4.3 and creates a unreadable partition. Cannot be rolled back. #sensata only has stock of the affected units. Waiting on update from #sensata
+		- #sensata Status: the devices came w/ #firmware 1.4.3 and creates a unreadable partition. Cannot be rolled back. #sensata only has stock of the affected units. We have to upgrade 1.4.3, and this should resolve the issue.
 	- Update: [[Aug 28th, 2024]]
 		- DONE can we check to see if a #sim change will effect anything
 			- [[Sep 3rd, 2024]] we tried to no avail
