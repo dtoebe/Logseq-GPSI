@@ -59,13 +59,14 @@
 		- We sent device to customer. Enabled logging. Waiting on #sensata response
 	- Update: [[Aug 20, 2024]]
 		- Requested customer to get back to us
-- Xirgo cam Accident and Corrupt video during crashes #sensata #CTS [[status: Vendor's Court]]
+- Xirgo cam Accident and Corrupt video during crashes #sensata #CTS [[status: Platform's Court]]
+  collapsed:: true
 	- Added: [[Aug 6, 2024]]
-	- Status Last Change: Example: [[Aug 27th, 2024]]
+	- Status Last Change: [[Sep 3rd, 2024]]
 	- HE Ticket(s): HE-371
 	- Vendor Ticket(s):
 	- Update: [[Sep 3rd, 2024]]
-	-
+		- #cts-jeff is getting test units
 	- Update: [[Aug 20, 2024]]
 		- Mike pointed them to the test pool
 	- Update: [[Aug 6, 2024]]
