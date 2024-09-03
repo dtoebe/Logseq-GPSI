@@ -43,7 +43,6 @@
 	- Update: [[Jul 23rd, 2024]]
 		- Revert the scripts
 - GPS Issues - XT6384 #sensata #CTS [[status: Platform's Court]]
-  collapsed:: true
 	- Added: [[Aug 6, 2024]]
 	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-1184
@@ -51,7 +50,6 @@
 	- Update: [[Aug 20, 2024]]
 		- Requested customer to get back to us
 - Xirgo cam Accident and Corrupt video during crashes #sensata #CTS [[status: Vendor's Court]]
-  collapsed:: true
 	- Added: [[Aug 6, 2024]]
 	- Status Last Change: Example: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-371
@@ -71,7 +69,6 @@
 	- Update: <Array> Latest on top: Example: [[Jan, 01, 2024]]
 		- Update summary
 - Update Process for Re-Animate #sensata #CTS [[status: Vendor's Court]]
-  collapsed:: true
 	- Added: [[Aug 20, 2024]]
 	- Status Last Change: [[Aug 20, 2024]]
 	- HE Ticket(s):
@@ -79,7 +76,6 @@
 	- Update: [[Aug 20, 2024]]
 		- Mike is still waiting
 - New KP2, fulfillment cannot connect #sensata #CTS [[status: Vendor's Court]]
-  collapsed:: true
 	- Added: [[Aug 20, 2024]]
 	- Status Last Change: [[Aug 20, 2024]]
 	- HE Ticket(s):
