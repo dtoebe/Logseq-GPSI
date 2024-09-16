@@ -1,9 +1,10 @@
 - Diag Vals High #calamp #GPSI [[status: Vendor's Court]]
-  collapsed:: true
 	- Added: [[Aug 26th, 2024]]
 	- Status Last Change: [[Aug 26th, 2024]]
 	- HE Ticket(s):
 	- Vendor Ticket(s): CTCS-71277
+	- Update: [[2024/09/16]]
+		-
 	- Update: [[Aug 27th, 2024]]
 		- {{embed ((66ce33a3-98cb-4c06-814a-a12beb155843))}}
 	- Update [[Aug 26th, 2024]]
