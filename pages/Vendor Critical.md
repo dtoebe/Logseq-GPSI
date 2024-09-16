@@ -4,7 +4,7 @@
 	- HE Ticket(s):
 	- Vendor Ticket(s): CTCS-71277
 	- Update: [[2024/09/16]]
-		-
+		- As of Tues of last week a new engineering build has been posted
 	- Update: [[Aug 27th, 2024]]
 		- {{embed ((66ce33a3-98cb-4c06-814a-a12beb155843))}}
 	- Update [[Aug 26th, 2024]]
