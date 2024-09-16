@@ -10,7 +10,7 @@
  ;; Available options:
  ;; - :now for NOW/LATER style (default)
  ;; - :todo for TODO/DOING style
- :preferred-workflow :now
+ :preferred-workflow :todo
 
  ;; Exclude directories/files.
  ;; Example usage:
@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["quick capture" "LATER" "todo" "blocked" "doing" "cp-soheil" "cts-anthony" "cts-kim" "cts-mike" "gpsi-brent" "gpsi-bill" "gpsi-chris-p" "gpsi-jake" "gpsi-ray" "management" "coaching"]
+ :favorites ["quick capture" "later" "todo" "blocked" "doing" "vendor critical" "cp-soheil" "cts-anthony" "cts-kim" "cts-mike" "gpsi-brent" "gpsi-bill" "gpsi-chris-p" "gpsi-jake" "gpsi-ray" "management" "coaching"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -419,6 +419,8 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :graph/settings {:journal? true
+ :graph/settings {:journal? false
  :builtin-pages? true}
- :custom-css-url "@import url('https://cdn.jsdelivr.net/gh/dracula/logseq@master/custom.css');"}
+ :custom-css-url "@import url('https://cdn.jsdelivr.net/gh/dracula/logseq@master/custom.css');"
+ :journal/page-title-format "yyyy/MM/dd"
+ :editor/logical-outdenting? true}
