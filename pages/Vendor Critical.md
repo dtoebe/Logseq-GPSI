@@ -12,7 +12,6 @@
 	- Update [[Aug 26th, 2024]]
 		- {{embed ((66ccdd32-bb38-43d8-8b92-22abb7ae6ba6))}}
 - Ghost Bluetooth #sensata #CTS [[status: Vendor's Court]]
-  collapsed:: true
 	- Added: [[May 23, 2024]]
 	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-900
@@ -82,6 +81,8 @@
 	- Status Last Change: [[Sep 3rd, 2024]]
 	- HE Ticket(s): HE-371
 	- Vendor Ticket(s):
+	- Update: [[2024/09/17]]
+		- #sensata to update
 	- Update: [[Sep 3rd, 2024]]
 		- #cts-jeff is getting test units
 	- Update: [[Aug 20, 2024]]
@@ -110,7 +111,6 @@
 	- Update: [[Aug 20, 2024]]
 		- Mike is still waiting
 - New KP2, fulfillment cannot connect #sensata #CTS [[status: Vendor's Court]]
-  collapsed:: true
 	- Added: [[Aug 20, 2024]]
 	- Status Last Change: [[Aug 20, 2024]]
 	- HE Ticket(s): HE-1460, HE-1180
