@@ -18,7 +18,7 @@
 	- Vendor Ticket(s): XSS-5619, XSS-5573, XSS-5664
 	- Update: [[2024/09/17]]
 		- Per #cts-anthony. the ghost BT seems to be resolved. But now getting connections issues
-		- Put in XSS-5977 waiting on response. NA2.2 does not seem to resolve. We are having about a 20% failure rate when updating, ad temperately bricks the device. Does not recover on its own
+		- Put in XSS-5977 waiting on response. NA2.2 does not seem to resolve. We are having about a 20% failure rate when updating, ad temperately bricks the device. Does not recover on its own. #sensata is having NA2.x (literally) that allows us to WYVAL commands.
 	- Update: [[Sep 3rd, 2024]]
 		- Patch is not resolving the issue. We have seen 3 additional instances. No calls to support over the weekend. We are going continue to test for a few more days
 		- The new #firmware NA2.2 requires a new config and new param BCT for new timer. Apply with BY config.
