@@ -115,6 +115,8 @@
 	- Status Last Change: [[Aug 20, 2024]]
 	- HE Ticket(s): HE-1460, HE-1180
 	- Vendor Ticket(s): EVCC-46
+	- Update: [[2024/09/17]]
+		- Fullfilment is updating in-house
 	- Update: [[Sep 3rd, 2024]]
 		- We need an update today. They might have the RCA this week
 		- #sensata Status: the devices came w/ #firmware 1.4.3 and creates a unreadable partition. Cannot be rolled back. #sensata only has stock of the affected units. We have to upgrade 1.4.3, and this should resolve the issue. #firmware 1.4.3 is the new minimum for these #devices.
