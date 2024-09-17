@@ -12,6 +12,7 @@
 	- Update [[Aug 26th, 2024]]
 		- {{embed ((66ccdd32-bb38-43d8-8b92-22abb7ae6ba6))}}
 - Ghost Bluetooth #sensata #CTS [[status: Vendor's Court]]
+  collapsed:: true
 	- Added: [[May 23, 2024]]
 	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-900
@@ -61,11 +62,12 @@
 	- Update: [[Jul 23rd, 2024]]
 		- Revert the scripts
 - GPS Issues - XT6384 #sensata #CTS [[status: Vendor's Court]]
-  collapsed:: true
 	- Added: [[Aug 6, 2024]]
 	- Status Last Change: [[Sep 3rd, 2024]]
 	- HE Ticket(s): HE-1184
 	- Vendor Ticket(s): XSS-5812
+	- Update: [[2024/09/17]] : See ghost BT issue
+	-
 	- Update: [[Sep 3rd, 2024]]
 		- We sent device to customer. Enabled logging. Waiting on #sensata response
 		- #sensata NA2.2 #firmware has detection of the unknown #GPS state. #cts-ross to update the devices to that #firmware.
