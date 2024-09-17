@@ -30,7 +30,6 @@
 	- Update: [[Jul 23rd, 2024]]
 		- Blocked on the 1133 Patch
 - INCIDENT - XT6379A, XT6360 - Cell Issue (77H) #sensata #CTS [[status: Platform's Court]]
-  collapsed:: true
 	- Added: [[Jul 23rd, 2024]]
 	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-1375
@@ -62,12 +61,12 @@
 	- Update: [[Jul 23rd, 2024]]
 		- Revert the scripts
 - GPS Issues - XT6384 #sensata #CTS [[status: Vendor's Court]]
+  collapsed:: true
 	- Added: [[Aug 6, 2024]]
 	- Status Last Change: [[Sep 3rd, 2024]]
 	- HE Ticket(s): HE-1184
 	- Vendor Ticket(s): XSS-5812
 	- Update: [[2024/09/17]] : See ghost BT issue
-	-
 	- Update: [[Sep 3rd, 2024]]
 		- We sent device to customer. Enabled logging. Waiting on #sensata response
 		- #sensata NA2.2 #firmware has detection of the unknown #GPS state. #cts-ross to update the devices to that #firmware.
