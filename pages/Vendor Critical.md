@@ -34,6 +34,8 @@
 	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-1375
 	- Vendor Ticket(s): XSS-5766
+	- Update: [[2024/09/17]]
+		- Seems better with the 77D and
 	- Update: [[Sep 3rd, 2024]]
 		- the extra messages have not  helped. the only method of debugging is to serially debug while the issue is happening. #cts-jeff has an effected device.
 		- #sensata says it was authentication failure from the cell provider.
