@@ -111,7 +111,6 @@
 	- Update: [[Aug 20, 2024]]
 		- Mike is still waiting
 - New KP2, fulfillment cannot connect #sensata #CTS [[status: Platform's Court]]
-  collapsed:: true
 	- Added: [[Aug 20, 2024]]
 	- Status Last Change: [[Aug 20, 2024]]
 	- HE Ticket(s): HE-1460, HE-1180
@@ -119,6 +118,7 @@
 	- Update: [[2024/09/17]]
 		- Fulfillment is updating in-house via SD
 		- TODO Discuss w/ Ray about updating the cameras to 1.4.3 #gpsi-ray and #cts-kim
+		- 1.4.1 is > 500Mb
 	- Update: [[Sep 3rd, 2024]]
 		- We need an update today. They might have the RCA this week
 		- #sensata Status: the devices came w/ #firmware 1.4.3 and creates a unreadable partition. Cannot be rolled back. #sensata only has stock of the affected units. We have to upgrade 1.4.3, and this should resolve the issue. #firmware 1.4.3 is the new minimum for these #devices.
