@@ -30,12 +30,14 @@
 	- Update: [[Jul 23rd, 2024]]
 		- Blocked on the 1133 Patch
 - INCIDENT - XT6379A, XT6360 - Cell Issue (77H) #sensata #CTS [[status: Platform's Court]]
+  collapsed:: true
 	- Added: [[Jul 23rd, 2024]]
 	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-1375
 	- Vendor Ticket(s): XSS-5766
 	- Update: [[2024/09/17]]
-		- Seems better with the 77D and
+		- Seems better with the 77D and H
+		- Final field testing
 	- Update: [[Sep 3rd, 2024]]
 		- the extra messages have not  helped. the only method of debugging is to serially debug while the issue is happening. #cts-jeff has an effected device.
 		- #sensata says it was authentication failure from the cell provider.
@@ -75,8 +77,7 @@
 		- #sensata recommends getting affected #firmware NA2.2
 	- Update: [[Aug 20, 2024]]
 		- Requested customer to get back to us
-- Xirgo cam Accident and Corrupt video during crashes #sensata #CTS [[status: Platform's Court]]
-  collapsed:: true
+- Xirgo cam Accident and Corrupt video during crashes #sensata #CTS [[status: Vendor's Court]]
 	- Added: [[Aug 6, 2024]]
 	- Status Last Change: [[Sep 3rd, 2024]]
 	- HE Ticket(s): HE-371
