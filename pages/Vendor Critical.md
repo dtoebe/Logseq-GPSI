@@ -12,11 +12,12 @@
 	- Update [[Aug 26th, 2024]]
 		- {{embed ((66ccdd32-bb38-43d8-8b92-22abb7ae6ba6))}}
 - Ghost Bluetooth #sensata #CTS [[status: Vendor's Court]]
-  collapsed:: true
 	- Added: [[May 23, 2024]]
 	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-900
 	- Vendor Ticket(s): XSS-5619, XSS-5573, XSS-5664
+	- Update: [[2024/09/17]]
+		- Per #cts-anthony. the ghost BT seems to be resolved
 	- Update: [[Sep 3rd, 2024]]
 		- Patch is not resolving the issue. We have seen 3 additional instances. No calls to support over the weekend. We are going continue to test for a few more days
 		- The new #firmware NA2.2 requires a new config and new param BTC for new timer. Apply with BY config.
