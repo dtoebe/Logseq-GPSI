@@ -4,7 +4,7 @@
 	- HE Ticket(s):
 	- Vendor Ticket(s): CTCS-71277
 	- Update: [[2024/09/25]]
-		- #gpsi-chad
+		- #gpsi-chad see that the 3640 is collecting to much data LD/HD/EV. at once and locks up the device. Chad
 	- Update: [[2024/09/16]]
 		- As of Tues of last week a new engineering build has been posted. Adds some debugging
 		-
