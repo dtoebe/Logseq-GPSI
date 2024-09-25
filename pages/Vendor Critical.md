@@ -3,6 +3,8 @@
 	- Status Last Change: [[Aug 26th, 2024]]
 	- HE Ticket(s):
 	- Vendor Ticket(s): CTCS-71277
+	- Update: [[2024/09/25]]
+		- #gpsi-chad
 	- Update: [[2024/09/16]]
 		- As of Tues of last week a new engineering build has been posted. Adds some debugging
 		-
