@@ -1,4 +1,5 @@
 - Diag Vals High #calamp #GPSI [[status: Vendor's Court]]
+  collapsed:: true
 	- Added: [[Aug 26th, 2024]]
 	- Status Last Change: [[Aug 26th, 2024]]
 	- HE Ticket(s):
@@ -137,6 +138,7 @@
 		- Kim wants fulfillment to go through support and needs HE ticket
 		- Per Ray (slack): For this #sensata-KP2 thing, can we be sure we get a #jira ticket on our side, critical status? I'd like Mike or Jeff to walk through the comms in the config to be sure nothing's changed or broken.
 		  [https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679](https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679)]]
+- Chand wants an egineering build 8.6R
 - # Done
   collapsed:: true
 	- POD FW #calamp #GPSI [[status: Done]]
