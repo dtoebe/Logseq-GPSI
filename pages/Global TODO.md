@@ -8,8 +8,8 @@
   CLOCK: [2024-08-26 Mon 10:53:57]--[2024-08-26 Mon 10:54:08] =>  00:00:11
   :END:
 - DONE Follow up with Bill on the tail lead time for Street Eagle and how long it's going to live. #WORK #StreetEagle #gpsi-bill
-- TODO With Street Eagle stuff, talk to Bill about, you know, if CTS covers some of the ambulance stuff and things like that. #WORK #CTS #gpsi-bill
-- TODO Set a reminder for if we decide to productize the Airmar device to make sure that we are accounting for any damages and warranty since it's an external facing device. #WORK #gpsi-ray #cts-kim #CTS
+- DONE With Street Eagle stuff, talk to Bill about, you know, if CTS covers some of the ambulance stuff and things like that. #WORK #CTS #gpsi-bill
+- DONE Set a reminder for if we decide to productize the Airmar device to make sure that we are accounting for any damages and warranty since it's an external facing device. #WORK #gpsi-ray #cts-kim #CTS
 - DOING Update all the tickets that are assigned to me on the HE board. #WORK #jira
   :LOGBOOK:
   CLOCK: [2024-08-26 Mon 09:56:57]
@@ -41,8 +41,8 @@
 	- [[Aug 27th, 2024]] Meeting setup w/ Dmitry
 		- ((66ce02f8-caa8-49ad-83de-3838295e1c7c))
 	- [[Proj: CTS Rodgers Network]]
-- TODO Identify two people that I'd value feedback from and request for it. Thinking Jake or Kim, Chris after I meet with him around the strategy idea. #WORK #management #coaching
-- TODO Think about how I can use the aid mnemonic in chapter 5 of the Tao of Coaching. #PERSONAL #management #coaching
+- DONE Identify two people that I'd value feedback from and request for it. Thinking Jake or Kim, Chris after I meet with him around the strategy idea. #WORK #management #coaching
+- DONE Think about how I can use the aid mnemonic in chapter 5 of the Tao of Coaching. #PERSONAL #management #coaching
 - DONE Using #gpsi-ray bullet points on priorities, find out exactly where #cts-mike is with each priority and how we can balance getting those things done. #WORK #CTS
   id:: 66ccac21-9a7f-4ece-b3c0-0d1a2abebc39
   :LOGBOOK:
