@@ -1,25 +1,13 @@
-- TODO Go over XSS tickets #WORK #CTS #GPSI #sensata
-  collapsed:: true
-  :LOGBOOK:
-  CLOCK: [2024-08-26 Mon 10:30:01]--[2024-08-26 Mon 10:30:02] =>  00:00:01
-  CLOCK: [2024-08-26 Mon 10:31:41]--[2024-08-26 Mon 10:31:42] =>  00:00:01
-  :END:
-	- See where we are with the tickets being
-		- Waiting on Sensata
-		- Waiting on our Platforms
-- TODO Go over CTCS tickets #WORK #GPSI #calamp
+- DONE Go over CTCS tickets #WORK #GPSI #calamp
   collapsed:: true
 	- See where we are with the tickets being
 		- Waiting on CalAmp
 		- Waiting on our Platforms
-- TODO Build out testing for FW in Jira #WORK #jira #asana #[[all platforms]]
-  collapsed:: true
-	- We want to take the testing framework Ray has built in Asana and make it work in Jira
 - DONE Make sure Dev does QA for WBD with Mike. #WORK #CTS #cts-mike #WBD-V2
   :LOGBOOK:
   CLOCK: [2024-08-26 Mon 10:53:57]--[2024-08-26 Mon 10:54:08] =>  00:00:11
   :END:
-- TODO Follow up with Bill on the tail lead time for Street Eagle and how long it's going to live. #WORK #StreetEagle #gpsi-bill
+- DONE Follow up with Bill on the tail lead time for Street Eagle and how long it's going to live. #WORK #StreetEagle #gpsi-bill
 - TODO With Street Eagle stuff, talk to Bill about, you know, if CTS covers some of the ambulance stuff and things like that. #WORK #CTS #gpsi-bill
 - TODO Set a reminder for if we decide to productize the Airmar device to make sure that we are accounting for any damages and warranty since it's an external facing device. #WORK #gpsi-ray #cts-kim #CTS
 - DOING Update all the tickets that are assigned to me on the HE board. #WORK #jira
