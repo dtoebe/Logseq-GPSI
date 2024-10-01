@@ -111,6 +111,7 @@
 		- Updates:
 			- [[2024/09/30]]
 				- Jay gave link to documentation [1133 to 1191](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsensata.gitlab.io%2Fsensatainsights%2Ftelematics%2Freanimate%2Fantora%2FXT6300%2FKB1%2FHarp%2F1133_to_1191_Migration%2FUpgrading_Firmware.html&data=05%7C02%7Cray.kosick%40gpsinsight.com%7C2198eaa85ed044ce426f08dce1734691%7Cc14c200eacc74d85bb029018a4ac5861%7C0%7C0%7C638633132438618287%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=UzqahV5%2B%2BIS7B%2F1TYK9LSF7derf2gSkJ0hTTtwdfdbs%3D&reserved=0)
+				-
 	- Updated documentation on #sensata
 		- [XSS-6026](https://sensatacloud.atlassian.net/servicedesk/customer/portal/32/XSS-6026)
 		- [HE-1524](https://gpsinsight.atlassian.net/browse/HE-1524)
