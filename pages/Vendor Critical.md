@@ -41,7 +41,7 @@
 	- HE Ticket(s): HE-360
 	- Vendor Ticket(s): XSS-5117\
 	- Update: [[2024/10/01]]
-		-
+		- Confirm w/ #sensata that nothing will be
 	- Update: [[Sep 3rd, 2024]]
 		- We enabled logging and logs sent to #sensata. Waiting on updates from #sensata
 		- #sensata has the logs and waiting on the vehicle bus team to eval
