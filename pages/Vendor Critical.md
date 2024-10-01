@@ -35,35 +35,13 @@
 		- Timeline RN is the end of Aug, Tim Nelson is trying to get that earlier
 	- Update: [[Jul 23rd, 2024]]
 		- Blocked on the 1133 Patch
-- INCIDENT - XT6379A, XT6360 - Cell Issue (77H) #sensata #CTS [[status: Done]]
-  collapsed:: true
-	- Added: [[Jul 23rd, 2024]]
-	- Status Last Change: [[Aug 27th, 2024]]
-	- HE Ticket(s): HE-1375
-	- Vendor Ticket(s): XSS-5766
-	- Update: [[2024/10/01]]
-		- We are rolling out J now, leaving broken seatbelt functionality
-		- This is done!
-	- Update: [[2024/09/17]]
-		- Seems better with the 77D and H
-		- Final field testing
-	- Update: [[Sep 3rd, 2024]]
-		- the extra messages have not  helped. the only method of debugging is to serially debug while the issue is happening. #cts-jeff has an effected device.
-		- #sensata says it was authentication failure from the cell provider.
-		- We seem to only have happening to Bell.
-			- TODO discuss issue and verbiage w/ #cts-ross and #cts-anthony then reach out to #cell-cts-bell
-	- Update: [[Aug 27th, 2024]]
-		- {{embed ((66ce315d-da17-4b22-a8de-3ad0feee85b9))}}
-	- Update: [[Aug 20, 2024]]
-		- Anthony is monitoring devices regularly and seeing if we have the reset issue
-	- Update: [[Jul 23rd, 2024]]
-		- Only seeing this on Cat-1 devices
 - Ignition Events Being Missed Until Device Is Reset #sensata #CTS [[status: Vendor's Court]]
-  collapsed:: true
 	- Added: [[Jan 11, 2024]]
 	- Status Last Change: [[Sep 3rd, 2024]]
 	- HE Ticket(s): HE-360
-	- Vendor Ticket(s): XSS-5117
+	- Vendor Ticket(s): XSS-5117\
+	- Update: [[2024/10/01]]
+		-
 	- Update: [[Sep 3rd, 2024]]
 		- We enabled logging and logs sent to #sensata. Waiting on updates from #sensata
 		- #sensata has the logs and waiting on the vehicle bus team to eval
@@ -189,6 +167,29 @@
 			- {{embed ((66ccdd32-3618-4095-8a0b-1c75631776fb))}}
 		- Update: [[Aug 27th, 2024]
 			- #gpsi-jason-h will be checking if there is an order to the update. Either the Android or CMF update first
+	- INCIDENT - XT6379A, XT6360 - Cell Issue (77H) #sensata #CTS [[status: Done]]
+	  collapsed:: true
+		- Added: [[Jul 23rd, 2024]]
+		- Status Last Change: [[Aug 27th, 2024]]
+		- HE Ticket(s): HE-1375
+		- Vendor Ticket(s): XSS-5766
+		- Update: [[2024/10/01]]
+			- We are rolling out J now, leaving broken seatbelt functionality
+			- This is done!
+		- Update: [[2024/09/17]]
+			- Seems better with the 77D and H
+			- Final field testing
+		- Update: [[Sep 3rd, 2024]]
+			- the extra messages have not  helped. the only method of debugging is to serially debug while the issue is happening. #cts-jeff has an effected device.
+			- #sensata says it was authentication failure from the cell provider.
+			- We seem to only have happening to Bell.
+				- TODO discuss issue and verbiage w/ #cts-ross and #cts-anthony then reach out to #cell-cts-bell
+		- Update: [[Aug 27th, 2024]]
+			- {{embed ((66ce315d-da17-4b22-a8de-3ad0feee85b9))}}
+		- Update: [[Aug 20, 2024]]
+			- Anthony is monitoring devices regularly and seeing if we have the reset issue
+		- Update: [[Jul 23rd, 2024]]
+			- Only seeing this on Cat-1 devices
 -
 -
 -
