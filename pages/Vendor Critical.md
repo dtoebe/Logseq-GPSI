@@ -20,7 +20,8 @@
 	- HE Ticket(s): HE-900
 	- Vendor Ticket(s): XSS-5619, XSS-5573, XSS-5664
 	- Update: [[2024/10/01]]
-		-
+		- We sent over logs, but there was no data from the time the BT disconnect.
+		- We are waiting on them to test in-house, and nothing on our side.
 	- Update: [[2024/09/17]]
 		- Per #cts-anthony. the ghost BT seems to be resolved. But now getting connections issues
 		- Put in XSS-5977 waiting on response. NA2.2 does not seem to resolve. We are having about a 20% failure rate when updating, ad temperately bricks the device. Does not recover on its own. #sensata is having NA2.x (literally) that allows us to WYVAL commands. They need a change to 1133
