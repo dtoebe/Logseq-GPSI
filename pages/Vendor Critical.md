@@ -139,6 +139,7 @@
 		- Per Ray (slack): For this #sensata-KP2 thing, can we be sure we get a #jira ticket on our side, critical status? I'd like Mike or Jeff to walk through the comms in the config to be sure nothing's changed or broken.
 		  [https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679](https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679)]]
 - #reanimate issues #sensata
+  collapsed:: true
 	- SerialAux as a Destination for BuildAndSendMsg()
 		- [XSS-6024](https://sensatacloud.atlassian.net/servicedesk/customer/portal/32/XSS-6024)
 		- [HE-1522](https://gpsinsight.atlassian.net/browse/HE-1522)
