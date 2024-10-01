@@ -132,6 +132,7 @@
 			- #cts-mike needs to confirm what that status of the updated docs
 			-
 - # Done
+  collapsed:: true
 	- New KP2, fulfillment cannot connect #sensata #CTS [[status: Done]]
 	  collapsed:: true
 		- Added: [[Aug 20, 2024]]
