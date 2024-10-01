@@ -146,7 +146,10 @@
 			- [[2024/10/01]]
 				- From XSS ticket - #sensata looking into it
 	- Process to update our current 1133 devices to 1191
-		- [XSS-]
+		- [XSS-6025](https://sensatacloud.atlassian.net/servicedesk/customer/portal/32/XSS-6025)
+		- [HE-1523](https://gpsinsight.atlassian.net/browse/HE-1523)
+		- Updates:
+			-
 	-
 - # Done
   collapsed:: true
