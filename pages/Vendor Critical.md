@@ -36,10 +36,11 @@
 	- Update: [[Jul 23rd, 2024]]
 		- Blocked on the 1133 Patch
 - Ignition Events Being Missed Until Device Is Reset #sensata #CTS [[status: Vendor's Court]]
+  collapsed:: true
 	- Added: [[Jan 11, 2024]]
 	- Status Last Change: [[Sep 3rd, 2024]]
 	- HE Ticket(s): HE-360
-	- Vendor Ticket(s): XSS-5117\
+	- Vendor Ticket(s): XSS-5117
 	- Update: [[2024/10/01]]
 		- Confirm w/ #sensata that nothing will be done w/ this and will have to move to reAnimate
 	- Update: [[Sep 3rd, 2024]]
@@ -52,7 +53,6 @@
 	- Update: [[Jul 23rd, 2024]]
 		- Revert the scripts
 - GPS Issues - XT6384 #sensata #CTS [[status: Platform's Court]]
-  collapsed:: true
 	- Added: [[Aug 6, 2024]]
 	- Status Last Change: [[Sep 3rd, 2024]]
 	- HE Ticket(s): HE-1184
