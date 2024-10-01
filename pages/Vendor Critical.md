@@ -127,6 +127,7 @@
 		- Updates:
 			- Per Jay: I have attached sample script and parameter files for your testing. These have been previously provided to Mike. No reason you couldn’t use existing devices to test this but I can have some samples shipped over if needed. Mike also has the firmware transition instructions.
 				- https://gpsinsight.atlassian.net/browse/HE-1525?focusedCommentId=455144
+			- #cts-mike needs to confirm what that status of the updated docs
 - # Done
 	- New KP2, fulfillment cannot connect #sensata #CTS [[status: Done]]
 	  collapsed:: true
