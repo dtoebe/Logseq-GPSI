@@ -106,7 +106,7 @@
 				- From XSS ticket - #sensata looking into it
 				- This is supposed to be done in a FW from Sept
 				- The functionality is complete and will be a part of Q4 release
-					- Current FW is
+					- Current #firmware is KV1
 	- Process to update our current 1133 devices to 1191
 	  collapsed:: true
 		- [XSS-6025](https://sensatacloud.atlassian.net/servicedesk/customer/portal/32/XSS-6025)
