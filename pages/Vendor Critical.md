@@ -161,7 +161,8 @@
 		- [XSS-6027](https://sensatacloud.atlassian.net/servicedesk/customer/portal/32/XSS-6027)
 		- [HE-1525](https://gpsinsight.atlassian.net/browse/HE-1525)
 		- Updates:
-			-
+			- Per Jay: I have attached sample script and parameter files for your testing. These have been previously provided to Mike. No reason you couldn’t use existing devices to test this but I can have some samples shipped over if needed. Mike also has the firmware transition instructions.
+				- https://gpsinsight.atlassian.net/browse/HE-1525?focusedCommentId=455144
 - # Done
   collapsed:: true
 	- POD FW #calamp #GPSI [[status: Done]]
