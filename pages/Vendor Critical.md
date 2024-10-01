@@ -96,31 +96,7 @@
 		- #sensata to send over docs
 	- Update: [[Aug 20, 2024]]
 		- Mike is still waiting
-- New KP2, fulfillment cannot connect #sensata #CTS [[status: Platform's Court]]
-  collapsed:: true
-	- Added: [[Aug 20, 2024]]
-	- Status Last Change: [[Aug 20, 2024]]
-	- HE Ticket(s): HE-1460, HE-1180
-	- Vendor Ticket(s): EVCC-46
-	- Update: [[2024/09/17]]
-		- Fulfillment is updating in-house via SD
-		- TODO Discuss w/ Ray about updating the cameras to 1.4.3 #gpsi-ray and #cts-kim
-		- 1.4.1 is > 500Mb
-	- Update: [[Sep 3rd, 2024]]
-		- We need an update today. They might have the RCA this week
-		- #sensata Status: the devices came w/ #firmware 1.4.3 and creates a unreadable partition. Cannot be rolled back. #sensata only has stock of the affected units. We have to upgrade 1.4.3, and this should resolve the issue. #firmware 1.4.3 is the new minimum for these #devices.
-			- Clear the #firmware, and then reinstall the #firmware
-			- #cts-fulfillment should create an #ASK ticket.
-			- #sensata confirming if we can update serially.
-	- Update: [[Aug 28th, 2024]]
-		- DONE can we check to see if a #sim change will effect anything
-			- [[Sep 3rd, 2024]] we tried to no avail
-	- Update: [[Aug 20, 2024]]
-		- Kim wants fulfillment to go through support and needs HE ticket
-		- Per Ray (slack): For this #sensata-KP2 thing, can we be sure we get a #jira ticket on our side, critical status? I'd like Mike or Jeff to walk through the comms in the config to be sure nothing's changed or broken.
-		  [https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679](https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679)]]
 - #reanimate issues #sensata
-  collapsed:: true
 	- SerialAux as a Destination for BuildAndSendMsg()
 		- [XSS-6024](https://sensatacloud.atlassian.net/servicedesk/customer/portal/32/XSS-6024)
 		- [HE-1522](https://gpsinsight.atlassian.net/browse/HE-1522)
@@ -146,6 +122,29 @@
 			- Per Jay: I have attached sample script and parameter files for your testing. These have been previously provided to Mike. No reason you couldn’t use existing devices to test this but I can have some samples shipped over if needed. Mike also has the firmware transition instructions.
 				- https://gpsinsight.atlassian.net/browse/HE-1525?focusedCommentId=455144
 - # Done
+	- New KP2, fulfillment cannot connect #sensata #CTS [[status: Done]]
+	  collapsed:: true
+		- Added: [[Aug 20, 2024]]
+		- Status Last Change: [[Aug 20, 2024]]
+		- HE Ticket(s): HE-1460, HE-1180
+		- Vendor Ticket(s): EVCC-46
+		- Update: [[2024/09/17]]
+			- Fulfillment is updating in-house via SD
+			- TODO Discuss w/ Ray about updating the cameras to 1.4.3 #gpsi-ray and #cts-kim
+			- 1.4.1 is > 500Mb
+		- Update: [[Sep 3rd, 2024]]
+			- We need an update today. They might have the RCA this week
+			- #sensata Status: the devices came w/ #firmware 1.4.3 and creates a unreadable partition. Cannot be rolled back. #sensata only has stock of the affected units. We have to upgrade 1.4.3, and this should resolve the issue. #firmware 1.4.3 is the new minimum for these #devices.
+				- Clear the #firmware, and then reinstall the #firmware
+				- #cts-fulfillment should create an #ASK ticket.
+				- #sensata confirming if we can update serially.
+		- Update: [[Aug 28th, 2024]]
+			- DONE can we check to see if a #sim change will effect anything
+				- [[Sep 3rd, 2024]] we tried to no avail
+		- Update: [[Aug 20, 2024]]
+			- Kim wants fulfillment to go through support and needs HE ticket
+			- Per Ray (slack): For this #sensata-KP2 thing, can we be sure we get a #jira ticket on our side, critical status? I'd like Mike or Jeff to walk through the comms in the config to be sure nothing's changed or broken.
+			  [https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679](https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679)]]
 	- Troubleshoot Airmar Data - T316 #WBD-V2 #CTS [[status: Done]]
 	  collapsed:: true
 		- Added: [[Aug, 01, 2024]]
