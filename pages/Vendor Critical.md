@@ -53,6 +53,7 @@
 	- Update: [[Jul 23rd, 2024]]
 		- Revert the scripts
 - GPS Issues - XT6384 #sensata #CTS [[status: Platform's Court]]
+  collapsed:: true
 	- Added: [[Aug 6, 2024]]
 	- Status Last Change: [[Sep 3rd, 2024]]
 	- HE Ticket(s): HE-1184
@@ -98,7 +99,6 @@
 		- Mike is still waiting
 - #reanimate issues #sensata
 	- SerialAux as a Destination for BuildAndSendMsg()
-	  collapsed:: true
 		- [XSS-6024](https://sensatacloud.atlassian.net/servicedesk/customer/portal/32/XSS-6024)
 		- [HE-1522](https://gpsinsight.atlassian.net/browse/HE-1522)
 		- Updates:
