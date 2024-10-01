@@ -52,7 +52,7 @@
 		- Waiting on Support for contact the Customer to revert the device
 	- Update: [[Jul 23rd, 2024]]
 		- Revert the scripts
-- GPS Issues - XT6384 #sensata #CTS [[status: Platform's Court]]
+- GPS Issues - XT6384 #sensata #CTS [[status: Platform's Court]] Waiting on #reanimate
   collapsed:: true
 	- Added: [[Aug 6, 2024]]
 	- Status Last Change: [[Sep 3rd, 2024]]
@@ -99,6 +99,7 @@
 		- Mike is still waiting
 - #reanimate issues #sensata
 	- SerialAux as a Destination for BuildAndSendMsg()
+	  collapsed:: true
 		- [XSS-6024](https://sensatacloud.atlassian.net/servicedesk/customer/portal/32/XSS-6024)
 		- [HE-1522](https://gpsinsight.atlassian.net/browse/HE-1522)
 		- Updates:
@@ -108,7 +109,6 @@
 				- The functionality is complete and will be a part of Q4 release
 					- Current #firmware is KV1
 	- Process to update our current 1133 devices to 1191
-	  collapsed:: true
 		- [XSS-6025](https://sensatacloud.atlassian.net/servicedesk/customer/portal/32/XSS-6025)
 		- [HE-1523](https://gpsinsight.atlassian.net/browse/HE-1523)
 		- Updates:
@@ -116,7 +116,6 @@
 				- Jay gave link to documentation [1133 to 1191](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsensata.gitlab.io%2Fsensatainsights%2Ftelematics%2Freanimate%2Fantora%2FXT6300%2FKB1%2FHarp%2F1133_to_1191_Migration%2FUpgrading_Firmware.html&data=05%7C02%7Cray.kosick%40gpsinsight.com%7C2198eaa85ed044ce426f08dce1734691%7Cc14c200eacc74d85bb029018a4ac5861%7C0%7C0%7C638633132438618287%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=UzqahV5%2B%2BIS7B%2F1TYK9LSF7derf2gSkJ0hTTtwdfdbs%3D&reserved=0)
 				-
 	- Updated documentation on #sensata
-	  collapsed:: true
 		- [XSS-6026](https://sensatacloud.atlassian.net/servicedesk/customer/portal/32/XSS-6026)
 		- [HE-1524](https://gpsinsight.atlassian.net/browse/HE-1524)
 		- Updates:
@@ -124,7 +123,6 @@
 				- [ReAnimate Docs](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsensata.gitlab.io%2Fsensatainsights%2Ftelematics%2Freanimate%2Fantora%2FstartPage%2Findex.html&data=05%7C02%7Cray.kosick%40gpsinsight.com%7Cfb174d13940742793c0f08dce172af5e%7Cc14c200eacc74d85bb029018a4ac5861%7C0%7C0%7C638633129897761468%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=cEMZ9IG46Vg7k4K4jkeYZnf%2B%2FTTCc5tQ%2BwItCpqwOUs%3D&reserved=0)
 				- TODO I need to link to the update ticket above
 	- Get Device on DM to update from 1131 to 1191
-	  collapsed:: true
 		- [XSS-6027](https://sensatacloud.atlassian.net/servicedesk/customer/portal/32/XSS-6027)
 		- [HE-1525](https://gpsinsight.atlassian.net/browse/HE-1525)
 		- Updates:
