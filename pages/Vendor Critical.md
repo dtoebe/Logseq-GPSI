@@ -15,7 +15,6 @@
 	- Update [[Aug 26th, 2024]]
 		- {{embed ((66ccdd32-bb38-43d8-8b92-22abb7ae6ba6))}}
 - Ghost Bluetooth #sensata #CTS [[status: Vendor's Court]]
-  collapsed:: true
 	- Added: [[May 23, 2024]]
 	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-900
@@ -115,7 +114,6 @@
 			- #cts-mike needs to confirm what that status of the updated docs
 			-
 - # Done
-  collapsed:: true
 	- Ignition Events Being Missed Until Device Is Reset #sensata #CTS [[status: Done]] Waiting on #reanimate
 	  collapsed:: true
 		- Added: [[Jan 11, 2024]]
