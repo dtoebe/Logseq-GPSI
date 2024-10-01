@@ -149,7 +149,8 @@
 		- [XSS-6025](https://sensatacloud.atlassian.net/servicedesk/customer/portal/32/XSS-6025)
 		- [HE-1523](https://gpsinsight.atlassian.net/browse/HE-1523)
 		- Updates:
-			-
+			- [[2024/09/30]]
+				- Jay gave link to documentation [1133 to 1191]()
 	-
 - # Done
   collapsed:: true
