@@ -140,7 +140,10 @@
 		  [https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679](https://gpsinsight.slack.com/archives/DNLNQJEBB/p1724174037706679)]]
 - #reanimate issues #sensata
 	- SerialAux as a Destination for BuildAndSendMsg()
-		- .
+		- [XSS-6024](https://sensatacloud.atlassian.net/servicedesk/customer/portal/32/XSS-6024)
+		- [HE-1522](https://gpsinsight.atlassian.net/browse/HE-1522)
+		- Updates:
+			-
 - # Done
   collapsed:: true
 	- POD FW #calamp #GPSI [[status: Done]]
