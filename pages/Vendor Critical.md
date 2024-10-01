@@ -41,7 +41,8 @@
 	- HE Ticket(s): HE-1375
 	- Vendor Ticket(s): XSS-5766
 	- Update: [[2024/10/01]]
-		-
+		- We are rolling out J now, leaving broken seatbelt functionality
+		- This is done!
 	- Update: [[2024/09/17]]
 		- Seems better with the 77D and H
 		- Final field testing
