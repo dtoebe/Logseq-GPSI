@@ -35,7 +35,7 @@
 		- Timeline RN is the end of Aug, Tim Nelson is trying to get that earlier
 	- Update: [[Jul 23rd, 2024]]
 		- Blocked on the 1133 Patch
-- Ignition Events Being Missed Until Device Is Reset #sensata #CTS [[status: Vendor's Court]]
+- Ignition Events Being Missed Until Device Is Reset #sensata #CTS [[status: Done]] Waiting on #reanimate
   collapsed:: true
 	- Added: [[Jan 11, 2024]]
 	- Status Last Change: [[Sep 3rd, 2024]]
@@ -52,8 +52,7 @@
 		- Waiting on Support for contact the Customer to revert the device
 	- Update: [[Jul 23rd, 2024]]
 		- Revert the scripts
-- GPS Issues - XT6384 #sensata #CTS [[status: Platform's Court]] Waiting on #reanimate
-  collapsed:: true
+- GPS Issues - XT6384 #sensata #CTS [[status: Platform's Court]]
 	- Added: [[Aug 6, 2024]]
 	- Status Last Change: [[Sep 3rd, 2024]]
 	- HE Ticket(s): HE-1184
