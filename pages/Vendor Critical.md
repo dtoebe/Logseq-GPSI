@@ -144,7 +144,9 @@
 		- [HE-1522](https://gpsinsight.atlassian.net/browse/HE-1522)
 		- Updates:
 			- [[2024/10/01]]
-				- From XSS ticket - #sensata
+				- From XSS ticket - #sensata looking into it
+	- Process to update our current 1133 devices to 1191
+		- [XSS-]
 	-
 - # Done
   collapsed:: true
