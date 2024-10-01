@@ -66,7 +66,8 @@
 		- #sensata recommends getting affected #firmware NA2.2
 	- Update: [[Aug 20, 2024]]
 		- Requested customer to get back to us
-- Xirgo cam Accident and Corrupt video during crashes #sensata #CTS [[status: Vendor's Court]]
+- Xirgo cam Accident and Corrupt video during crashes #sensata #CTS [[status: Platform's Court]]
+  collapsed:: true
 	- Added: [[Aug 6, 2024]]
 	- Status Last Change: [[Sep 3rd, 2024]]
 	- HE Ticket(s): HE-371
@@ -84,14 +85,6 @@
 		- Ray wants to bring this up since it seems to be happening on a regular basis. Push back on Ray for HE and XSS tickets
 			- Get info on XSS tickets
 			  SCHEDULED: <2024-08-30 Fri 09:00>
-- Troubleshoot Airmar Data - T316 #WBD-V2 #CTS [[status: Platform's Court]]
-  collapsed:: true
-	- Added: [[Aug, 01, 2024]]
-	- Status Last Change: [[Aug 01, 2024]]
-	- HE Ticket(s): HE-1373
-	- Vendor Ticket(s):
-	- Update: <Array> Latest on top: Example: [[Jan, 01, 2024]]
-		- Update summary
 - Update Process for Re-Animate #sensata #CTS [[status: Vendor's Court]]
   collapsed:: true
 	- Added: [[Aug 20, 2024]]
@@ -153,6 +146,14 @@
 			- Per Jay: I have attached sample script and parameter files for your testing. These have been previously provided to Mike. No reason you couldn’t use existing devices to test this but I can have some samples shipped over if needed. Mike also has the firmware transition instructions.
 				- https://gpsinsight.atlassian.net/browse/HE-1525?focusedCommentId=455144
 - # Done
+	- Troubleshoot Airmar Data - T316 #WBD-V2 #CTS [[status: Done]]
+	  collapsed:: true
+		- Added: [[Aug, 01, 2024]]
+		- Status Last Change: [[Aug 01, 2024]]
+		- HE Ticket(s): HE-1373
+		- Vendor Ticket(s):
+		- Update: <Array> Latest on top: Example: [[Jan, 01, 2024]]
+			- Update summary
 	- POD FW #calamp #GPSI [[status: Done]]
 	  collapsed:: true
 		- Added: [[Aug 26th, 2024]]
