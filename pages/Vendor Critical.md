@@ -157,7 +157,9 @@
 		- Updates:
 			- [[2024/09/30]]
 				- [ReAnimate Docs](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsensata.gitlab.io%2Fsensatainsights%2Ftelematics%2Freanimate%2Fantora%2FstartPage%2Findex.html&data=05%7C02%7Cray.kosick%40gpsinsight.com%7Cfb174d13940742793c0f08dce172af5e%7Cc14c200eacc74d85bb029018a4ac5861%7C0%7C0%7C638633129897761468%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=cEMZ9IG46Vg7k4K4jkeYZnf%2B%2FTTCc5tQ%2BwItCpqwOUs%3D&reserved=0)
-	-
+	- Get Device on DM to update from 1131 to 1191
+		- [XSS-6027](https://sensatacloud.atlassian.net/servicedesk/customer/portal/32/XSS-6027)
+		-
 - # Done
   collapsed:: true
 	- POD FW #calamp #GPSI [[status: Done]]
