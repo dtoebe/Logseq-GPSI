@@ -57,7 +57,7 @@
 	- Vendor Ticket(s):
 	- Update: [[2024/10/01]]
 		- #cts-jeff to send them 500 more devices
-			- TODO Make sure to follow up #he-critical
+			- DONE Make sure to follow up #he-critical
 	- Update: [[2024/09/17]]
 		- #sensata to update
 	- Update: [[Sep 3rd, 2024]]
