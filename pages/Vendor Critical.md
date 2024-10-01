@@ -56,6 +56,8 @@
 	- Status Last Change: [[Sep 3rd, 2024]]
 	- HE Ticket(s): HE-1184
 	- Vendor Ticket(s): XSS-5812
+	- Update: [[2024/10/01]]
+		- We got a test FW #cts-anthony
 	- Update: [[2024/09/17]] : See ghost BT issue
 	- Update: [[Sep 3rd, 2024]]
 		- We sent device to customer. Enabled logging. Waiting on #sensata response
