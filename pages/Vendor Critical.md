@@ -15,11 +15,12 @@
 	- Update [[Aug 26th, 2024]]
 		- {{embed ((66ccdd32-bb38-43d8-8b92-22abb7ae6ba6))}}
 - Ghost Bluetooth #sensata #CTS [[status: Vendor's Court]]
-  collapsed:: true
 	- Added: [[May 23, 2024]]
 	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-900
 	- Vendor Ticket(s): XSS-5619, XSS-5573, XSS-5664
+	- Update: [[2024/10/01]]
+		-
 	- Update: [[2024/09/17]]
 		- Per #cts-anthony. the ghost BT seems to be resolved. But now getting connections issues
 		- Put in XSS-5977 waiting on response. NA2.2 does not seem to resolve. We are having about a 20% failure rate when updating, ad temperately bricks the device. Does not recover on its own. #sensata is having NA2.x (literally) that allows us to WYVAL commands. They need a change to 1133
