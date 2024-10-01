@@ -143,7 +143,9 @@
 		- [XSS-6024](https://sensatacloud.atlassian.net/servicedesk/customer/portal/32/XSS-6024)
 		- [HE-1522](https://gpsinsight.atlassian.net/browse/HE-1522)
 		- Updates:
-			-
+			- [[2024/10/01]]
+				- From XSS ticket - #sensata
+	-
 - # Done
   collapsed:: true
 	- POD FW #calamp #GPSI [[status: Done]]
