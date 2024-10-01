@@ -35,24 +35,8 @@
 		- Timeline RN is the end of Aug, Tim Nelson is trying to get that earlier
 	- Update: [[Jul 23rd, 2024]]
 		- Blocked on the 1133 Patch
-- Ignition Events Being Missed Until Device Is Reset #sensata #CTS [[status: Done]] Waiting on #reanimate
-  collapsed:: true
-	- Added: [[Jan 11, 2024]]
-	- Status Last Change: [[Sep 3rd, 2024]]
-	- HE Ticket(s): HE-360
-	- Vendor Ticket(s): XSS-5117
-	- Update: [[2024/10/01]]
-		- Confirm w/ #sensata that nothing will be done w/ this and will have to move to reAnimate
-	- Update: [[Sep 3rd, 2024]]
-		- We enabled logging and logs sent to #sensata. Waiting on updates from #sensata
-		- #sensata has the logs and waiting on the vehicle bus team to eval
-	- Update: [[Aug 20, 2024]]
-		- We are waiting on the customer to reply
-	- Update: [[Aug 6, 2024]]
-		- Waiting on Support for contact the Customer to revert the device
-	- Update: [[Jul 23rd, 2024]]
-		- Revert the scripts
 - GPS Issues - XT6384 #sensata #CTS [[status: Platform's Court]]
+  collapsed:: true
 	- Added: [[Aug 6, 2024]]
 	- Status Last Change: [[Sep 3rd, 2024]]
 	- HE Ticket(s): HE-1184
@@ -132,6 +116,23 @@
 			-
 - # Done
   collapsed:: true
+	- Ignition Events Being Missed Until Device Is Reset #sensata #CTS [[status: Done]] Waiting on #reanimate
+	  collapsed:: true
+		- Added: [[Jan 11, 2024]]
+		- Status Last Change: [[Sep 3rd, 2024]]
+		- HE Ticket(s): HE-360
+		- Vendor Ticket(s): XSS-5117
+		- Update: [[2024/10/01]]
+			- Confirm w/ #sensata that nothing will be done w/ this and will have to move to reAnimate
+		- Update: [[Sep 3rd, 2024]]
+			- We enabled logging and logs sent to #sensata. Waiting on updates from #sensata
+			- #sensata has the logs and waiting on the vehicle bus team to eval
+		- Update: [[Aug 20, 2024]]
+			- We are waiting on the customer to reply
+		- Update: [[Aug 6, 2024]]
+			- Waiting on Support for contact the Customer to revert the device
+		- Update: [[Jul 23rd, 2024]]
+			- Revert the scripts
 	- New KP2, fulfillment cannot connect #sensata #CTS [[status: Done]]
 	  collapsed:: true
 		- Added: [[Aug 20, 2024]]
