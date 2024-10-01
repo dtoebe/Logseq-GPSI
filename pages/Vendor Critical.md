@@ -98,11 +98,13 @@
 		- Mike is still waiting
 - #reanimate issues #sensata
 	- SerialAux as a Destination for BuildAndSendMsg()
+	  collapsed:: true
 		- [XSS-6024](https://sensatacloud.atlassian.net/servicedesk/customer/portal/32/XSS-6024)
 		- [HE-1522](https://gpsinsight.atlassian.net/browse/HE-1522)
 		- Updates:
 			- [[2024/10/01]]
 				- From XSS ticket - #sensata looking into it
+				- This is supposed to be done in a FW from Sept
 	- Process to update our current 1133 devices to 1191
 		- [XSS-6025](https://sensatacloud.atlassian.net/servicedesk/customer/portal/32/XSS-6025)
 		- [HE-1523](https://gpsinsight.atlassian.net/browse/HE-1523)
