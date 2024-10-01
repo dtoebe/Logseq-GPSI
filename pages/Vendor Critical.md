@@ -41,7 +41,7 @@
 	- HE Ticket(s): HE-360
 	- Vendor Ticket(s): XSS-5117\
 	- Update: [[2024/10/01]]
-		- Confirm w/ #sensata that nothing will be
+		- Confirm w/ #sensata that nothing will be done w/ this and will have to move to reAnimate
 	- Update: [[Sep 3rd, 2024]]
 		- We enabled logging and logs sent to #sensata. Waiting on updates from #sensata
 		- #sensata has the logs and waiting on the vehicle bus team to eval
@@ -52,7 +52,6 @@
 	- Update: [[Jul 23rd, 2024]]
 		- Revert the scripts
 - GPS Issues - XT6384 #sensata #CTS [[status: Vendor's Court]]
-  collapsed:: true
 	- Added: [[Aug 6, 2024]]
 	- Status Last Change: [[Sep 3rd, 2024]]
 	- HE Ticket(s): HE-1184
