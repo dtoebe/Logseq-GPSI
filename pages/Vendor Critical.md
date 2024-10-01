@@ -35,7 +35,8 @@
 		- Timeline RN is the end of Aug, Tim Nelson is trying to get that earlier
 	- Update: [[Jul 23rd, 2024]]
 		- Blocked on the 1133 Patch
-- INCIDENT - XT6379A, XT6360 - Cell Issue (77H) #sensata #CTS [[status: Platform's Court]]
+- INCIDENT - XT6379A, XT6360 - Cell Issue (77H) #sensata #CTS [[status: Done]]
+  collapsed:: true
 	- Added: [[Jul 23rd, 2024]]
 	- Status Last Change: [[Aug 27th, 2024]]
 	- HE Ticket(s): HE-1375
@@ -170,7 +171,6 @@
 			- Per Jay: I have attached sample script and parameter files for your testing. These have been previously provided to Mike. No reason you couldn’t use existing devices to test this but I can have some samples shipped over if needed. Mike also has the firmware transition instructions.
 				- https://gpsinsight.atlassian.net/browse/HE-1525?focusedCommentId=455144
 - # Done
-  collapsed:: true
 	- POD FW #calamp #GPSI [[status: Done]]
 	  collapsed:: true
 		- Added: [[Aug 26th, 2024]]
