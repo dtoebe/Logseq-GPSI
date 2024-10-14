@@ -422,5 +422,5 @@
  :graph/settings {:journal? false
  :builtin-pages? true}
  :custom-css-url "@import url('https://cdn.jsdelivr.net/gh/dracula/logseq@master/custom.css');"
- :journal/page-title-format "yyyy/MM/dd"
+ :journal/page-title-format "yyyy-MM-dd"
  :editor/logical-outdenting? true}
