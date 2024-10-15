@@ -81,7 +81,6 @@
 		- Mike is still waiting
 - #reanimate issues #sensata
 	- SerialAux as a Destination for BuildAndSendMsg()
-	  collapsed:: true
 		- [XSS-6024](https://sensatacloud.atlassian.net/servicedesk/customer/portal/32/XSS-6024)
 		- [HE-1522](https://gpsinsight.atlassian.net/browse/HE-1522)
 		- Updates:
