@@ -36,6 +36,7 @@
 	- Update: [[Jul 23rd, 2024]]
 		- Blocked on the 1133 Patch
 - GPS Issues - XT6384 #sensata #CTS [[status: Platform's Court]]
+  collapsed:: true
 	- Added: [[Aug 6, 2024]]
 	- Status Last Change: [[Sep 3rd, 2024]]
 	- HE Ticket(s): HE-1184
@@ -50,7 +51,6 @@
 	- Update: [[Aug 20, 2024]]
 		- Requested customer to get back to us
 - Xirgo cam Accident and Corrupt video during crashes #sensata #CTS [[status: Platform's Court]]
-  collapsed:: true
 	- Added: [[Aug 6, 2024]]
 	- Status Last Change: [[Sep 3rd, 2024]]
 	- HE Ticket(s): HE-371
